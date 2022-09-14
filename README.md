@@ -14,7 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Isabel da Silva Viana
 * Kauan Pablo Freitas de Assis Campos
 * Lucas Gabriel Ramos da Silva
-*Samara Mariah dos Santos
+* Samara Mariah dos Santos
 
 ## Orientador
 
