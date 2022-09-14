@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Alpha play
 
-`CURSO`
+`Sistemas de Informação`
 
-`DISCIPLINA`
+`PROJETO: APLICAÇÕES WEB`
 
-`SEMESTRE`
+`PEIMEIRO SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Anna Giulia Rezende Santos 
+* Isabel da Silva Viana
+* Kauan Pablo Freitas de Assis Campos
+* Lucas Gabriel Ramos da Silva
+*Samara Mariah dos Santos
 
 ## Orientador
 
-* Nome completo do professor 1
+* Hugo Bastos de Paula
 
 ## Instruções de utilização
 
