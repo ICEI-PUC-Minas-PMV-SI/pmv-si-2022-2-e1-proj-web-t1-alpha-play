@@ -8,7 +8,6 @@
 
 Alpha play consiste em um projeto realizado por alunos do curso de Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais (PUCMG) que tem como intuito desenvolver um sistema interativo voltado para crianças em fase de alfabetização, pais e professores.
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
