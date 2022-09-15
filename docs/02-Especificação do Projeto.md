@@ -48,13 +48,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RNF-002| Devera ter abas de jogos separados por materia| ALTA |
-|RF-003|  Devera ter sistema de classificação por estrelas | MÉDIA |
-|RNF-004| Devera ter abas de jogos separados por materia| ALTA |
-|RNF-005| Permitir cadastro |MÉDIA |
-|RNF-006| Permitir o usuario favoritar aplicações|MÉDIA |
-|RNF-007| Permitir buscas de jogos |MÉDIA |
-|RNF-008| Permitir grupo com amigos| BAIXO |
+|RF-002| Devera ter abas de jogos separados por materia| ALTA |
+|RF-003| Devera ter abas de jogos separados por materia| ALTA |
+|RF-004| Devera ter sistema de classificação por estrelas | MÉDIA |
+|RF-005| Permitir cadastro |MÉDIA |
+|RF-006| Permitir o usuario favoritar aplicações|MÉDIA |
+|RF-007| Permitir buscas de jogos |MÉDIA |
+|RF-008| Permitir grupo com amigos| BAIXO |
 
 
 
