@@ -21,12 +21,14 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 ## Objetivos
 
 ### Objetivo geral
-Oferecer uma plataforma que ofereça jogos educativos que auxilie crianças com dificuldade no processo de alfabetização infantil. 
+Desenvolver um sistema interativo na web que ofereça jogos educativos que auxilie crianças com dificuldade no processo de alfabetização infantil. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+### Objetivos específicos
+• Fazer um levantamento dos jogos educacionais disponíveis no mercados. <br>
+• Organizar os jogos de acordo com os objetivos de aprendizagem de usuário.<br>
+• Desenvolver o site com todas as funções ativas.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
