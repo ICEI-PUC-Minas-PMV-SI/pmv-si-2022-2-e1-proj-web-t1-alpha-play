@@ -1,8 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Atualmente ,com o avanço da tecnologia de forma exponencial, o dia a dia das pessoas tornou-se mais ágil e dinâmic. Sob tal ótica, essa questão não se restringe ao público adulto: 89% das crianças e dos adolescentes brasileiros são usuários de Internet (BUTCHER, 2020). Decerto, o contato com esta rede possibilitou inúmeros avanços na sociedade, seja no âmbito da saúde, segurança, educação, além de ser benéfica disponibilizando praticidade, acessibilidade, relacionamento e entretenimento. 
 
-## Problema
+
+## Problema 
 
 Atualização do problema.
 
