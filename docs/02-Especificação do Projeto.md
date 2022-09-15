@@ -7,7 +7,7 @@ Anna Giulia é uma criança de 10 anos estudante de uma escola particular. Em se
 
 2º Persona 
 
-Júlio Augusto é um jovem professor de 27 anos, que durante a pandemia, observou que havia uma grande dificuldade em ensinar e dar aula para seus alunos. Por isso Júlio está buscando uma forma alternativa de ensinar seus alunos.
+Júlio Augusto é um jovem professor de 27 anos, que durante a pandemia, observou que havia uma grande dificuldade em ensinar e dar aulas para seus alunos. Por isso Júlio está buscando uma forma alternativa de ensinar seus alunos.
 
 
 
