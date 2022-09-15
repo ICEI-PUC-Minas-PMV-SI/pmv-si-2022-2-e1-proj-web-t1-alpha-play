@@ -33,8 +33,8 @@ Desenvolver um sistema interativo na web que ofereça jogos educativos que auxil
 • Desenvolver o site com todas as funções ativas. <br>
  
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
+ 
 
 ## Justificativa
 
