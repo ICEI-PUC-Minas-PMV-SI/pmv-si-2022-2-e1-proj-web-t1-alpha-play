@@ -7,8 +7,6 @@ Analogamente, tais benefícios se forem utilizados de maneira indevida resultam 
 ## Problema 
 
 
-
-
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
@@ -19,8 +17,7 @@ O uso excessivo e sem orientação da internet pelas crianças vem se tornando u
  
 Nesse sentido, entretenimento e aprendizado que realmente contribuam no processo pedagógico é uma informação que apesar de vasta na rede não se encontra com facilidade em uma única fonte de acesso. Disponibilizar jogos que ofereçam esses dois fatores pode, e muito, contribuir na problemática exposta, estimulando o estudo das crianças, diminuindo a absorção de conteúdos fúteis e ensinando-as a aproveitar os benefícios da internet corretamente.
 
-## Objetivos 
-<br>
+
 
 ## Objetivos
 
