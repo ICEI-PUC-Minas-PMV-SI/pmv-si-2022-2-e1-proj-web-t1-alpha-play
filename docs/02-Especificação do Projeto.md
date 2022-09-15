@@ -1,7 +1,7 @@
 ## Especificações do Projeto
 
 Ao pesquisar na internet um material de apoio para estudos, crianças são surpreendidas com diversas fontes de ajuda, no entanto, em meio a tanta informação apresentada pode ocorrer a divergência de informação, resultando em mais dúvidas e em casos piores a desistência do interessado.
-Tendo conhecimento da infinidade de informações que  estão disponíveis na internet para o desenvolvimento da educação, a nossa aplicação web tem por finalidade mostrar um direcionamento para as crianças em seus estudos por meio de indicações de jogos didáticos que prenderam a atenção das crianças. Não só isso, como também um direcionamento de por onde elas deve seguir.
+Tendo conhecimento da infinidade de informações que  estão disponíveis na internet para o desenvolvimento da educação, a nossa aplicação web tem por finalidade mostrar um direcionamento para as crianças em seus estudos por meio de indicações de jogos didáticos que prenderam a atenção das crianças. Não só isso, como também um direcionamento de por onde elas devem seguir.
 
 
 ## Personas
