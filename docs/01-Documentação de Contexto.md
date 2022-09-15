@@ -26,7 +26,7 @@ Desenvolver um sistema interativo na web que ofereça jogos educativos que auxil
 ### Objetivos específicos
 • Fazer um levantamento dos jogos educacionais disponíveis no mercados. <br>
 • Organizar os jogos de acordo com os objetivos de aprendizagem de usuário.<br>
-• Desenvolver o site com todas as funções ativas.
+• Desenvolver o site com todas as funções ativas. <br>
  
 
 
