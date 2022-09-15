@@ -6,13 +6,6 @@ Analogamente, tais benefícios se forem utilizados de maneira indevida resultam 
 
 ## Problema 
 
-
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
 O uso excessivo e sem orientação da internet pelas crianças vem se tornando um empecilho em suas tarefas escolares. Mas ao contrário do que muitos possam imaginar, a atitude de proibir que essas crianças utilizem a internet também impactaria no seu progresso já que, no mundo moderno, ela se tornou aliada ao desenvolvimento e é nela que se encontra diversos recursos para o conhecimento, sem contar que é quase impossível viver sem ela (ARBIX, 2018).
  
 Nesse sentido, entretenimento e aprendizado que realmente contribuam no processo pedagógico é uma informação que apesar de vasta na rede não se encontra com facilidade em uma única fonte de acesso. Disponibilizar jogos que ofereçam esses dois fatores pode, e muito, contribuir na problemática exposta, estimulando o estudo das crianças, diminuindo a absorção de conteúdos fúteis e ensinando-as a aproveitar os benefícios da internet corretamente.
