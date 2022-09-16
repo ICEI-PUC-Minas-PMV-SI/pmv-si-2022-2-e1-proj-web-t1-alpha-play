@@ -37,4 +37,4 @@ TODOS PELA EDUCAÇÃO. Nota técnica. IMPACTOS DA PANDEMIA NA ALFABETIZAÇÃO DE
 
 ## Público-Alvo
 
-O nosso  público alvo são crianças na faixa etária de 03 a 12 anos de idade que se encontram com dificuldades na alfabetização, não somente as crianças, mas também seus pais e professores, esses que desejam o melhor desenvolvimetno do seu aluno ou filho. Nosso propósito é que essas crianças ao entrarem no site web se entretenham ao mesmo tempo que se desenvolvam, por meio de uma lista de jogos didáticos que irão se basear na disciplina escolhida ou que tenha dificuldade.
+O nosso  público alvo são crianças na faixa etária de 03 a 12 anos de idade que se encontram com dificuldades na alfabetização, não somente as crianças, mas também seus pais e professores, esses que desejam o melhor desenvolvimento do seu aluno ou filho. Nosso propósito é que essas crianças ao entrarem no site web se entretenham ao mesmo tempo que se desenvolvam, por meio de uma lista de jogos didáticos que irão se basear na disciplina escolhida ou que tenha dificuldade.
