@@ -8,4 +8,6 @@ BUTCHER, Isabel. 89% das crianças e dos adolescentes brasileiros são usuários
 
 ROSA, Priscilla Maria Faraco; SOUZA, Carlos Henrique Medeiros. Ciberdependência e infância: as influências das tecnologias digitais no desenvolvimento da criança. Brazilian Journal of Development, [S. l.], p. 23317, 9 mar. 2021.
 
+SANTOS, ALINE KELLY ARAÚJO DOS. EDUCAÇÃO INFANTIL E ENSINO REMOTO: A PARTICIPAÇÃO DAS FAMÍLIAS NA APRENDIZAGEM DAS CRIANÇAS EM TEMPOS DE PANDEMIA. 2021. Monografia (Licenciatura) - Universidade Federal do Rio Grande do Norte - UFRN, [S. l.], 2021. Disponível em: https://repositorio.ufrn.br/bitstream/123456789/44509/1/MONOGRAFIA-%20Aline%20kelly%20-EDILMA%20%284%29.pdf. Acesso em: 15 set. 2022.
 
+TODOS PELA EDUCAÇÃO. Nota técnica. IMPACTOS DA PANDEMIA NA ALFABETIZAÇÃO DE CRIANÇAS, [S. l.], Fevereiro 2021. Disponível em: https://todospelaeducacao.org.br/wordpress/wp-content/uploads/2022/02/digital-nota-tecnica-alfabetizacao-1.pdf. Acesso em: 15 set. 2022.
