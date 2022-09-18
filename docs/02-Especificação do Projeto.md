@@ -38,14 +38,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001|  Devera ter abas de jogos separados por materia| ALTA |
 |RF-002| Devera ter abas de jogos separados por materia| ALTA |
-|RF-003| Devera ter abas de jogos separados por materia| ALTA |
-|RF-004| Devera ter sistema de classificação por estrelas | MÉDIA |
-|RF-005| Permitir cadastro |MÉDIA |
-|RF-006| Permitir o usuario favoritar aplicações|MÉDIA |
-|RF-007| Permitir buscas de jogos |MÉDIA |
-|RF-008| Permitir grupo com amigos| BAIXO |
+|RF-003| Devera ter sistema de classificação por estrelas | MÉDIA |
+|RF-004| Permitir cadastro |MÉDIA |
+|RF-005| Permitir o usuario favoritar aplicações|MÉDIA |
+|RF-006| Permitir buscas de jogos |MÉDIA | 
+|RF-007|Permitir formar grupos com amigos| BAIXO |
+
 
 
 
@@ -55,7 +55,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-003| Ranking com melhores pontuações entre usuarios do grupo| BAIXO|
+|RNF-003| Ranking com as melhores pontuações entre usuários do grupo| BAIXO|
 
 
 
@@ -66,7 +66,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Ter FrontEnd com ( Javascripit, HMTL, Css) desenvolvidos      |
-|03| Limitação de usuarios da area educacional|
+|02| Ter FrontEnd com ( Javascripit, HMTL, Css) desenvolvidos |
+|03| Limitação de usuários da área educacional|
+|04| Iniciação a Banco de dados(BackEnd)|
 
 
