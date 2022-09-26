@@ -4,12 +4,16 @@
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 - Designação de tarefas e organização do time: 
+ 
  A designação dos integrantes para a realização de tarefas, será feita em conjunto e dividida de acordo com a necessidade e complexidade de cada tarefa. Será utilizada a plataforma de comunicação Teams para a realização de reuniões semanais para discutir próximas etapas do projeto e a verificação dos resultados. Também será utilizado issues, tags, labels e milestones para a designação, classificação, prazos de entrega e verificação de status de andamento de cada tarefa. 
 - Documentação:  
+
  A documentação da metodologia será escrita por duas pessoas, será utilizado para essa etapa o repositório de conteúdo Github. Para o código, será utilizado a mesma ferramenta, juntamente com o editor de código VS Code que será utilizado para o desenvolvimento do código. Tais ferramentas foram escolhidas devido a interação entre o editor de código (VS Code) e o sistema de versionamento (Github).
 - User Flow e Wireframing:  
- Para essa etapa, primeiramente serão designadas quatro pessoas para fazer o user flow, o qual consiste em um mapeamento do trajeto que o usuário irá realizar ao entrar no site. Com isso, é levantada a quantidade de páginas do site necessárias para o usuário realizar as tarefas. Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ ) o qual consiste em uma plataforma de design de interfaces que permite a utilização de vários usuários para a criação de um produto, tendo uma variedade de possibilidades de criação para diversos tipos de plataformas e permite a acessibilidade em um sistema. 
+
+Para essa etapa, primeiramente serão designadas quatro pessoas para fazer o user flow, o qual consiste em um mapeamento do trajeto que o usuário irá realizar ao entrar no site. Com isso, é levantada a quantidade de páginas do site necessárias para o usuário realizar as tarefas. Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ ) o qual consiste em uma plataforma de design de interfaces que permite a utilização de vários usuários para a criação de um produto, tendo uma variedade de possibilidades de criação para diversos tipos de plataformas e permite a acessibilidade em um sistema. 
 - Programação:
+ 
  Para o desenvolvimento de código será utilizado o editor de código Visual Studio Code (VS Code), devido sua integração com o sistema de controle de versão Github. Todos os integrantes utilizarão esse editor e o código será aprisionado no Github. As linguagens de programação que serão utilizadas para o desenvolvimento do site serão, HTML, CSS e JavaScript. Para o armazenamento dos componentes gráficos que serão desenvolvidos, será utilizada a biblioteca Booststrap.
 
 
