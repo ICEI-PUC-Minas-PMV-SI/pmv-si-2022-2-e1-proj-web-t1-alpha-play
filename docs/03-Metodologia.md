@@ -60,17 +60,18 @@ As ferramentas empregadas no projeto são:
 - Repositorio de conteúdo : Github
 - Gerencia de projetos: Github Projects Classic - Kanban
 - Editor de código: Visual Studio Code (VS Code)
-- Ferramentas de comunicação: Teams 
+- Ferramentas de comunicação: Teams e WhatsApp
 - Ferramentas de desenho de tela (_wireframing_): Figma
 
+Para o gerenciamento de projetos será utilizado o Github Projects Classic e para o repositorio do conteúdo o Github, que são, atualmente, as melhores plataformas de versionamento, além de gratuitas e amplamente utilizadas no mundo, o que facilita a busca de conteúdo, busca de soluções de problema. além de serem plataformas que facilitam o gerenciamento do projeto, auxiliando no direcionamento de atividades e controle de prazos.
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+O editor de código Visual Studio Code (VS Code) foi escolhido porque ele possui uma integração com o
+sistema de versão Git e Github. Além de ser uma ferramenta gratuita, muito utilizada pela comunidade, facilitando o encontro de soluções e suporte necessario para o desenvolvimento do projeto. Somado a isso, possui grande funções interligadas a diversas linguagens de programação. 
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+As ferramentas de comunicação utilizadas Teams e WhatsApp foram escolhidas devido a facil adesão dessas ferramentas pela equipe, além de serem ferramentas gratuitas e de facil acesso. Somado a isso, o Teams possui ferramentas de agendamento de reuniões e compartilhamento de tela, além de gravações da reunião que facilitam a comunicação e o manejo do grupo. 
+
+Por fim, para criar diagramas utilizamos a ferramenta Figma por melhor captar as necessidades da nossa solução. UMa vez que, é uma ferramenta gratuita que permite a interação da equipe e é amplamente utilizada no mercado sendo facilmente encontrado suporte para possiveis problemas. 
+
  
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
 > - [Slack](https://slack.com/)
