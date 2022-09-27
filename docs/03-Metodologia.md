@@ -45,12 +45,9 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A divisão de tarefas foi pensada com a ideia de divisão, o grupo foi ramificado ao longo do projeto para focar em determinadas sessões. Primeiro, era questionado a cada membro se  havia interesse específico por algum tema da sessão, caso houvesse interesse de uma ou mais pessoas, esses eram designados para a tarefa até chegar ao limite determinado de pessoas. Caso não houvesse preferência, era feita a divisão por escolha do Scrum Master.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
 
 ### Processo
 
