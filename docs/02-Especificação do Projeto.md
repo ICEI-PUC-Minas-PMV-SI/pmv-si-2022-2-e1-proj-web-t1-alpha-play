@@ -38,9 +38,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Devera ter abas de jogos separados por materia| ALTA |
-|RF-002| Devera ter abas de jogos separados por dificuldade| MÉDIA |
-|RF-003| Devera ter sistema de classificação por estrelas | MÉDIA |
+|RF-001| Deverá ter abas de jogos separados por materia| ALTA |
+|RF-002| Deverá ter abas de jogos separados por dificuldade| MÉDIA |
+|RF-003| Deverá ter sistema de classificação por estrelas | MÉDIA |
 |RF-004| Permitir cadastro de usuário |MÉDIA |
 |RF-005| Permitir o usuário favoritar aplicações|MÉDIA |
 |RF-006| Permitir buscas de jogos |MÉDIA | 
