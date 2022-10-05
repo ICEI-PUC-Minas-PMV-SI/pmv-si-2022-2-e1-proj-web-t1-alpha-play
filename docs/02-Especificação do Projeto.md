@@ -22,7 +22,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário jogador     | Ter acesso a jogos                 | Forma alternativa e descontraida de aprendizagem|
+|Usuário jogador     | Ter acesso a jogos                 | Forma alternativa de aprendizagem               |
 |Usuário tutor       | Filtrar jogos por matéria          | Direcionar o aluno à sua dificuldade            |
 |Usuário tutor       | Fixação de conteúdo                | Auxiliar os alunos de maneira interativa        |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas          |
