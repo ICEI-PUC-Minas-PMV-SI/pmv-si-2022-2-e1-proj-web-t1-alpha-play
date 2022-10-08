@@ -7,7 +7,8 @@
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
+
+
 
 
 
@@ -27,3 +28,5 @@
 ![Group 2335](https://user-images.githubusercontent.com/111810318/194677501-442a593a-5923-48f5-8344-f68e0fa1788d.png)
 
 ![logout](https://user-images.githubusercontent.com/111810318/194677569-b6988a58-ff8a-47a3-bc54-edd2739f9a73.png)
+
+![perfil de usuario](https://user-images.githubusercontent.com/111572633/194678252-7e2d73c1-a198-4bf1-ba04-b0e53a28aa6a.png)
