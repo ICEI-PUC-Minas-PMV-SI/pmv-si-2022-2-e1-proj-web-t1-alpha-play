@@ -17,6 +17,7 @@
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
+![Recuperação de senha](https://user-images.githubusercontent.com/112631577/194676979-63e56f0e-dcbf-41c9-be08-f04d3c20f0e6.png)
 
 
 
