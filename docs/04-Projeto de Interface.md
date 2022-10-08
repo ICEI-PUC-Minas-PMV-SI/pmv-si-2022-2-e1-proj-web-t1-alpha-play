@@ -36,6 +36,7 @@
 
 ![feedback neg](https://user-images.githubusercontent.com/111572633/194678582-1fd93cc9-49fc-41e2-af97-9a87ae2f93f6.png)
 
+![editar perfil](https://user-images.githubusercontent.com/111572633/194679455-bb41dddc-6f18-46f6-8940-afd82ead0612.png)
 
 
 
