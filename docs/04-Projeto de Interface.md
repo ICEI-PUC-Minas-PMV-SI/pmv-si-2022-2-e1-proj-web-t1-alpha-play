@@ -43,12 +43,16 @@ Caso o usuário tenha escrito alguma divergência em seu cadastro aparecerá uma
 
 ![editar perfil](https://user-images.githubusercontent.com/111572633/194679455-bb41dddc-6f18-46f6-8940-afd82ead0612.png)
 
+### Recuração de Senha
+Caso o usuário já tenha se cadastrado e não lembra seu e-mail, o usuário poderá solicitar a recuperação de sua senha através da página de login logo abaixo da box "senha" em "Esqueceu sua senha?", quando clicar será redirecionado a mudança de senha e assim voltará a ter acesso novamente à sua conta.
 
 ![Recuperação de senha](https://user-images.githubusercontent.com/112631577/194676979-63e56f0e-dcbf-41c9-be08-f04d3c20f0e6.png)
 
+### Quem Somos
 
 ![quem somos_](https://user-images.githubusercontent.com/97120244/194676061-af0bf0a7-ebd9-4b05-9700-e45ea8b1675e.png)
 
-
+### Logout
+Depois de logado, caso o usuário queira sair do seu perfil, atráves da Homepage, o login será substituido pelo logout e ao solicitar a saída de conta, aparecerá a mensagem que a requisição de logout foi executada com sucesso.
 ![logout](https://user-images.githubusercontent.com/111810318/194677569-b6988a58-ff8a-47a3-bc54-edd2739f9a73.png)
 
