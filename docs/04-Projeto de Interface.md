@@ -7,6 +7,7 @@
 
 ## User Flow
 
+![User flow](https://user-images.githubusercontent.com/111572633/194679388-e585a7c9-156a-49db-bf95-541e9ec52309.png)
 
 
 
