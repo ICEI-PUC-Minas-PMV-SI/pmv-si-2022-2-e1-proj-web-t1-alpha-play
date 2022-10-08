@@ -16,7 +16,7 @@
 
 ![quem somos_](https://user-images.githubusercontent.com/97120244/194676061-af0bf0a7-ebd9-4b05-9700-e45ea8b1675e.png)
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+
 
 ![Recuperação de senha](https://user-images.githubusercontent.com/112631577/194676979-63e56f0e-dcbf-41c9-be08-f04d3c20f0e6.png)
 
@@ -32,5 +32,9 @@
 ![perfil de usuario](https://user-images.githubusercontent.com/111572633/194678252-7e2d73c1-a198-4bf1-ba04-b0e53a28aa6a.png)
 
 ![feedback posi](https://user-images.githubusercontent.com/111572633/194678391-6a404606-6cd8-4c51-bd12-92087c8ad529.png)
+
+![feedback neg](https://user-images.githubusercontent.com/111572633/194678582-1fd93cc9-49fc-41e2-af97-9a87ae2f93f6.png)
+
+
 
 
