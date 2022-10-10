@@ -31,4 +31,4 @@ A solução implementada conta com os seguintes módulos:
 
 ## Hospedagem
 
-O grupo optou por realizar a compra de uma hospedagem no Hostinger onde foi feito o lançamento.
+O grupo optou por realizar a compra de uma hospedagem no Hostinger.
