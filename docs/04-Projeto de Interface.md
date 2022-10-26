@@ -19,7 +19,8 @@
 ### Homepage
 A interação com o usuário começa na homepage. Por ela o usuário terá acesso a todas extensões do site (Login/Cadastro, Quem somos, Logout, filtro de jogos); Através da interface da homepage, o usuário poderá ver jogos em destaque, filtros de categoria de jogos por matéria e aplicações categorizadas.    
   
-![Homepage](https://user-images.githubusercontent.com/112658890/194676829-c6932df9-ad05-4467-8117-006180ade87d.png)
+![Página inicial deslogada](https://user-images.githubusercontent.com/97120244/198099761-86363788-9cb4-4b50-997b-d479948e1bfc.png)
+
 
 ### Login
 A partir da Homepage, através do "Botão de cadastro(Login)" o usuário será direcionado à página de Login, onde irá encontrar dois campos, que seram preenchidos com a informação ja cadastrada pelo usuário. Logo abaixo dos campos de login, o usuário que não possuir cadastro poderá clicar em "cadastre-se" e escrever suas informações.
