@@ -1,7 +1,7 @@
 
 # Projeto de Interface
 
-  O Projeto de Inteface se divide em 7 páginas: Homepage, Login, Cadastro, Edição de perfil, Recuperção de senha, Quem somos, Logout. As páginas foram desenvolvidas para a facilitação de usuários que tem convívio com interações web, em todas as páginas há uma leitura clara e com caminhos objetivos que direcionam à aplicação requisitada.
+  O Projeto de Inteface se divide em 7 páginas: Homepage, Login, Cadastro, Recuperação de senha,  Perfil do Usuário, Edição de perfil, Quem somos. As páginas foram desenvolvidas para a facilitação de usuários que tem convívio com interações web, em todas as páginas há uma leitura clara e com caminhos objetivos que direcionam à aplicação requisitada.
 
 ## User Flow
 
@@ -25,7 +25,7 @@ A interação com o usuário começa na homepage. Por ela o usuário terá acess
 
 
 ### Login
-A partir da Homepage, através do "Botão de cadastro(Login)" o usuário será direcionado à página de Login, onde irá encontrar dois campos, que seram preenchidos com a informação ja cadastrada pelo usuário. Logo abaixo dos campos de login, o usuário que não possuir cadastro poderá clicar em "cadastre-se" e escrever suas informações.
+A partir da Homepage, através do "Botão de Login" o usuário será direcionado à página de Login, onde irá encontrar dois campos, que seram preenchidos com a informação ja cadastrada pelo usuário. Logo abaixo dos campos de login, o usuário que não possuir cadastro poderá clicar em "cadastre-se" e escrever suas informações ou em caso de esquecer a senha, em "esqueceu a senha?"
 
 
 ![Login (1)](https://user-images.githubusercontent.com/111810318/198110154-5eebc2ed-d1c8-44f7-8c59-c5d97b2793f2.png)
@@ -40,7 +40,7 @@ Caso o usuário já tenha se cadastrado e não lembra seu Nickname, poderá soli
 
 
 ### Cadastro
-Caso o usuário não possua conta na plataforma, o usuário poderá faze-la a partir da página de login logo abaixo clicando em "É novo por aqui?", onde será redirecionado a página de cadastro; Na página o usuário inserir suas informações como: Nome, Senha e Confirmação de senha; Caso o usuário clique errado em "Cadastre-se", poderá, logo abaixo, clicar em "faça login" e poderá retornar ao seu login. 
+Caso o usuário não possua conta na plataforma, o usuário poderá faze-la a partir da página de login logo abaixo clicando em "Cadastre-se?", onde será redirecionado a página de cadastro; Na página o usuário deve inserir suas informações como: Nickname, Senha e Confirmação de senha; Caso o usuário clique errado em "Cadastre-se", poderá, logo abaixo, clicar em "faça login" e poderá retornar ao seu login. 
 
 
 ![Cadastro](https://user-images.githubusercontent.com/111810318/198110694-418f3eeb-2248-4b54-a5d5-19fdd813ed2f.png)
@@ -83,7 +83,7 @@ Aqui o usuário pode escolher o avatar que irá usar na sua conta e ver seus jog
 
 
 ### Logout
-Aqui a mensagem de logout
+Quando o usuário realizar o logout, aparecerá uma mensagem de confirmação 
 
 
 ![pop-up logout](https://user-images.githubusercontent.com/111810318/198113655-32c1437e-ec9a-4739-bd63-22b5c3345ea4.png)
