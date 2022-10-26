@@ -65,10 +65,8 @@ Aqui a mensagem de logout
 
 
 ### Quem Somos
+Nessa página o usuário pode ter mais informações sobre os desenvolvedores.
 
-![quem somos_](https://user-images.githubusercontent.com/97120244/194676061-af0bf0a7-ebd9-4b05-9700-e45ea8b1675e.png)
+![Quem somos](https://user-images.githubusercontent.com/97120244/198108875-dab40cfa-30f7-45b1-9c75-b2a51e0cd271.png)
 
-### Logout
-Depois de logado, caso o usuário queira sair do seu perfil, atráves da Homepage, o login será substituido pelo logout e ao solicitar a saída de conta, aparecerá a mensagem que a requisição de logout foi executada com sucesso.
-![logout](https://user-images.githubusercontent.com/111810318/194677569-b6988a58-ff8a-47a3-bc54-edd2739f9a73.png)
 
