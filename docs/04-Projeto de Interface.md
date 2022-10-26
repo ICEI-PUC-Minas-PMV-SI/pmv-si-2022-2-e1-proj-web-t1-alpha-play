@@ -58,6 +58,9 @@ Aqui o usuário pode escolher o avatar que irá usar na sua conta e ver seus jog
 
 ![Edição de perfil](https://user-images.githubusercontent.com/97120244/198106074-2b1e1864-ea42-4ae3-ada9-abfedb6be358.png)
 
+### Logout
+Aqui a mensagem de logout
+![pop-up logout](https://user-images.githubusercontent.com/97120244/198108175-3caa4b8f-31fc-40c0-8578-00d8b2ff951f.png)
 
 
 
