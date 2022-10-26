@@ -49,8 +49,10 @@ Caso o usuário tenha escrito alguma divergência em seu cadastro aparecerá uma
 
 
 ### Perfil de Usuário
+Nessa página o usuário terá a possibilidade de alterar seu Nickname, senha e acessar a configuração de perfil.
 
-![perfil de usuario](https://user-images.githubusercontent.com/111572633/194678252-7e2d73c1-a198-4bf1-ba04-b0e53a28aa6a.png)
+![Perfil do usuário](https://user-images.githubusercontent.com/97120244/198103917-75a80edf-8f3d-408a-9ccc-e61defc8d74b.png)
+
 
 
 ![editar perfil](https://user-images.githubusercontent.com/111572633/194679455-bb41dddc-6f18-46f6-8940-afd82ead0612.png)
