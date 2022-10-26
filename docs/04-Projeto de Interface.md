@@ -71,7 +71,9 @@ Após concluir o seu cadastro e clicar em ir para a página inicial, será redir
 ### Perfil de Usuário
 Nessa página o usuário terá a possibilidade de alterar seu Nickname, senha e acessar a configuração de perfil.
 
-![Perfil do usuário](https://user-images.githubusercontent.com/97120244/198103917-75a80edf-8f3d-408a-9ccc-e61defc8d74b.png)
+
+![Perfil do usuário](https://user-images.githubusercontent.com/111810318/198113303-718d3dd1-399f-480e-8483-84b0b478be31.png)
+
 
 ### Edição de Perfil
 Aqui o usuário pode escolher o avatar que irá usar na sua conta e ver seus jogos favoritos. Também consegue fazer logout
