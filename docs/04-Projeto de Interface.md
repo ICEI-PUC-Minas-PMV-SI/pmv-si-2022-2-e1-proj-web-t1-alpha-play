@@ -27,6 +27,11 @@ A partir da Homepage, através do "Botão de cadastro(Login)" o usuário será d
 
 ![Login](https://user-images.githubusercontent.com/97120244/198100148-806ea8ef-d94c-4da1-b595-155fadadede4.png) 
 
+### Recuração de Senha
+Caso o usuário já tenha se cadastrado e não lembra seu Nickname, poderá solicitar a recuperação de sua senha através da página de login logo abaixo da box "senha" em "Esqueceu sua senha?", quando clicar será redirecionado a mudança de senha e assim voltará a ter acesso novamente à sua conta.
+
+![Recuperação de senha](https://user-images.githubusercontent.com/97120244/198101618-425b947a-1831-45cf-8701-e02fd1a8cf51.png)
+
 
 ### Cadastro
 Caso o usuário não possua conta na plataforma, o usuário poderá faze-la a partir da página de login logo abaixo clicando em "cadastre-se", onde será redirecionado a página de cadastro; Na página o usuário inserir suas informações como: Nome, Senha e Confirmação de senha; Caso o usuário clique errado em "Cadastre-se", poderá, logo abaixo, clicar em "faça login" e poderá retornar ao seu login. 
@@ -47,10 +52,7 @@ Caso o usuário tenha escrito alguma divergência em seu cadastro aparecerá uma
 
 ![editar perfil](https://user-images.githubusercontent.com/111572633/194679455-bb41dddc-6f18-46f6-8940-afd82ead0612.png)
 
-### Recuração de Senha
-Caso o usuário já tenha se cadastrado e não lembra seu e-mail, o usuário poderá solicitar a recuperação de sua senha através da página de login logo abaixo da box "senha" em "Esqueceu sua senha?", quando clicar será redirecionado a mudança de senha e assim voltará a ter acesso novamente à sua conta.
 
-![Recuperação de senha](https://user-images.githubusercontent.com/112631577/194676979-63e56f0e-dcbf-41c9-be08-f04d3c20f0e6.png)
 
 ### Quem Somos
 
