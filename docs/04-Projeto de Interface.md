@@ -45,7 +45,8 @@ Caso o usuário tenha concluído seu cadastro, aparecerá uma mensagem de confir
 
 ### Feedback Negativo
 Caso o usuário tenha escrito alguma divergência em seu cadastro aparecerá uma mensagem para tentar novamente ou voltar a seção de login.
-![feedback neg](https://user-images.githubusercontent.com/111572633/194678582-1fd93cc9-49fc-41e2-af97-9a87ae2f93f6.png)
+![pop-up erro de cadastro](https://user-images.githubusercontent.com/97120244/198103395-a12a79df-ecbb-4e67-a5db-0a0c1c805c95.png)
+
 
 ### Perfil de Usuário
 
