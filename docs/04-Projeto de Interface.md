@@ -60,7 +60,7 @@ Aqui o usuário pode escolher o avatar que irá usar na sua conta e ver seus jog
 
 ### Logout
 Aqui a mensagem de logout
-![pop-up logout](https://user-images.githubusercontent.com/97120244/198108175-3caa4b8f-31fc-40c0-8578-00d8b2ff951f.png)
+![pop-up logout](https://user-images.githubusercontent.com/97120244/198108175-3caa4b8f-31fc-40c0-8578-00d8b2ff951f.png) 
 
 
 
