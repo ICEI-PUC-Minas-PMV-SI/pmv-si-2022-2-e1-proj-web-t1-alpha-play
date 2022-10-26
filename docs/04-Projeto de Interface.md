@@ -17,10 +17,11 @@
 
 ## Wireframes
 
-### Homepage
-A interação com o usuário começa na homepage. Por ela o usuário terá acesso a todas extensões do site (Login/Cadastro, Quem somos, Logout, filtro de jogos); Através da interface da homepage, o usuário poderá ver jogos em destaque, filtros de categoria de jogos por matéria e aplicações categorizadas.    
+### Homepage deslogada
+A interação com o usuário começa na homepage. Por ela o usuário terá acesso a todas extensões do site (Login/Cadastro, Quem somos, Logout, filtro de jogos); Através da interface da homepage, o usuário poderá ver jogos em destaque, filtros de categoria de jogos por matéria e aplicações categorizadas.  
+
   
-![Página inicial deslogada](https://user-images.githubusercontent.com/97120244/198099761-86363788-9cb4-4b50-997b-d479948e1bfc.png)
+![Página inicial deslogada](https://user-images.githubusercontent.com/111810318/198112631-7b47c62e-c8ea-4db1-88da-114205bbf2bb.png)
 
 
 ### Login
@@ -58,6 +59,13 @@ Caso o usuário tenha concluído seu cadastro, aparecerá uma mensagem de confir
 
 
 ![pop-up sucesso de cadastro](https://user-images.githubusercontent.com/111810318/198111299-704cc626-2ca1-441a-8723-1e105d4cc7d5.png)
+
+
+### Homepage logada
+Após concluir o seu cadastro e clicar em ir para a página inicial, será redirecionado para a homepage já logada
+
+
+![Página Inicial  logado](https://user-images.githubusercontent.com/111810318/198112310-d0c7798a-d0d4-4c3e-a863-2c611dd90ea1.png)
 
 
 ### Perfil de Usuário
