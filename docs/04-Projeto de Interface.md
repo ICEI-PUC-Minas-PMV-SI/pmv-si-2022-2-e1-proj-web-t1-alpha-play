@@ -78,7 +78,9 @@ Nessa página o usuário terá a possibilidade de alterar seu Nickname, senha e 
 ### Edição de Perfil
 Aqui o usuário pode escolher o avatar que irá usar na sua conta e ver seus jogos favoritos. Também consegue fazer logout
 
-![Edição de perfil](https://user-images.githubusercontent.com/97120244/198106074-2b1e1864-ea42-4ae3-ada9-abfedb6be358.png)
+
+![Edição de perfil](https://user-images.githubusercontent.com/111810318/198113469-467ef567-1f15-4965-a263-84f80a1db7cf.png)
+
 
 ### Logout
 Aqui a mensagem de logout
