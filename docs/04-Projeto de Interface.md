@@ -26,7 +26,9 @@ A interação com o usuário começa na homepage. Por ela o usuário terá acess
 ### Login
 A partir da Homepage, através do "Botão de cadastro(Login)" o usuário será direcionado à página de Login, onde irá encontrar dois campos, que seram preenchidos com a informação ja cadastrada pelo usuário. Logo abaixo dos campos de login, o usuário que não possuir cadastro poderá clicar em "cadastre-se" e escrever suas informações.
 
-![Login](https://user-images.githubusercontent.com/111810318/198109713-bbc258d5-74bf-4513-a838-a70408a67760.png)
+
+![Login (1)](https://user-images.githubusercontent.com/111810318/198110154-5eebc2ed-d1c8-44f7-8c59-c5d97b2793f2.png)
+
 
 
 ### Recuração de Senha
