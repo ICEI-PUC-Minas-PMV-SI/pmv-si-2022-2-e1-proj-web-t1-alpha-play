@@ -53,9 +53,11 @@ Nessa página o usuário terá a possibilidade de alterar seu Nickname, senha e 
 
 ![Perfil do usuário](https://user-images.githubusercontent.com/97120244/198103917-75a80edf-8f3d-408a-9ccc-e61defc8d74b.png)
 
+### Edição de Perfil
+Aqui o usuário pode escolher o avatar que irá usar na sua conta e ver seus jogos favoritos.
 
+![Edição de perfil](https://user-images.githubusercontent.com/97120244/198106074-2b1e1864-ea42-4ae3-ada9-abfedb6be358.png)
 
-![editar perfil](https://user-images.githubusercontent.com/111572633/194679455-bb41dddc-6f18-46f6-8940-afd82ead0612.png)
 
 
 
