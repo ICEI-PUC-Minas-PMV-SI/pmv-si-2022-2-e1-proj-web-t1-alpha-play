@@ -34,7 +34,8 @@ A partir da Homepage, através do "Botão de cadastro(Login)" o usuário será d
 ### Recuração de Senha
 Caso o usuário já tenha se cadastrado e não lembra seu Nickname, poderá solicitar a recuperação de sua senha através da página de login logo abaixo da box "senha" em "Esqueceu sua senha?", quando clicar será redirecionado a mudança de senha e assim voltará a ter acesso novamente à sua conta.
 
-![Recuperação de senha](https://user-images.githubusercontent.com/97120244/198101618-425b947a-1831-45cf-8701-e02fd1a8cf51.png)
+![Recuperação de senha](https://user-images.githubusercontent.com/111810318/198110367-2d32094e-6830-4a38-95b3-8589e377ba0e.png)
+
 
 
 ### Cadastro
