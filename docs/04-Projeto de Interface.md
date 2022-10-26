@@ -46,14 +46,18 @@ Caso o usuário não possua conta na plataforma, o usuário poderá faze-la a pa
 
 
 
-### Feedback Positivos 
-Caso o usuário tenha concluído seu cadastro, aparecerá uma mensagem de confirmação com uma mensagem de aproveitamento dos jogos;
-![pop-up sucesso de cadastro](https://user-images.githubusercontent.com/97120244/198103081-964cebc9-6c53-4174-8904-25fa7f0a85dc.png)
-
-
-### Feedback Negativo
+### Feedback Negativo 
 Caso o usuário tenha escrito alguma divergência em seu cadastro aparecerá uma mensagem para tentar novamente ou voltar a seção de login.
-![pop-up erro de cadastro](https://user-images.githubusercontent.com/97120244/198103395-a12a79df-ecbb-4e67-a5db-0a0c1c805c95.png)
+
+
+![pop-up erro de cadastro](https://user-images.githubusercontent.com/111810318/198111286-8f7e9ce3-6ead-48dc-a1f5-49f0124e64c1.png)
+
+
+### Feedback Positivo
+Caso o usuário tenha concluído seu cadastro, aparecerá uma mensagem de confirmação com uma mensagem de aproveitamento dos jogos;
+
+
+![pop-up sucesso de cadastro](https://user-images.githubusercontent.com/111810318/198111299-704cc626-2ca1-441a-8723-1e105d4cc7d5.png)
 
 
 ### Perfil de Usuário
