@@ -92,6 +92,8 @@ Aqui a mensagem de logout
 ### Quem Somos
 Nessa página o usuário pode ter mais informações sobre os desenvolvedores.
 
-![Quem somos](https://user-images.githubusercontent.com/97120244/198108875-dab40cfa-30f7-45b1-9c75-b2a51e0cd271.png)
+
+![Quem somos](https://user-images.githubusercontent.com/111810318/198113818-1dc08d76-2221-461c-b9b8-b2ebcd68c63d.png)
+
 
 
