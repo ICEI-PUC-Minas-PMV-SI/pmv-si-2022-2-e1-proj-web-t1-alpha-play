@@ -5,7 +5,8 @@
 
 ## User Flow
 
-![Userflow](https://user-images.githubusercontent.com/97120244/198099275-05265b1f-ae8b-4a05-abb8-de27637130d2.png)
+![Userflow](https://user-images.githubusercontent.com/111810318/198109478-c4e88839-bdc5-4be5-848f-a9e1c4a98e9c.png)
+
 
 
 
