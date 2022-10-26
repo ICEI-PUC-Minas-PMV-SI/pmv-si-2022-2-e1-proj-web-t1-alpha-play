@@ -34,8 +34,9 @@ Caso o usuário já tenha se cadastrado e não lembra seu Nickname, poderá soli
 
 
 ### Cadastro
-Caso o usuário não possua conta na plataforma, o usuário poderá faze-la a partir da página de login logo abaixo clicando em "cadastre-se", onde será redirecionado a página de cadastro; Na página o usuário inserir suas informações como: Nome, Senha e Confirmação de senha; Caso o usuário clique errado em "Cadastre-se", poderá, logo abaixo, clicar em "faça login" e poderá retornar ao seu login. 
-![Cadastro](https://user-images.githubusercontent.com/112631577/194677031-f4eb44af-acd0-4939-a0cc-975d825226b0.png)
+Caso o usuário não possua conta na plataforma, o usuário poderá faze-la a partir da página de login logo abaixo clicando em "É novo por aqui?", onde será redirecionado a página de cadastro; Na página o usuário inserir suas informações como: Nome, Senha e Confirmação de senha; Caso o usuário clique errado em "Cadastre-se", poderá, logo abaixo, clicar em "faça login" e poderá retornar ao seu login. 
+![Cadastro](https://user-images.githubusercontent.com/97120244/198102482-792bf029-195d-46c3-91cb-fe1f1b73c5e7.png)
+
 
 ### Feedback Positivos 
 Caso o usuário tenha concluído seu cadastro, aparecerá uma mensagem de confirmação com uma mensagem de aproveitamento dos jogos;
