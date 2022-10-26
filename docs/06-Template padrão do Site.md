@@ -1,5 +1,4 @@
 # Template padrão do site
 
-O template do site foi feito por meio do figma, link para acesso: <a href="https://www.figma.com/file/ko2KmjWYc6qOOBQ3b883kL/Alpha-Play?node-id=0%3A1">Template</a>
+![Masterpage](https://user-images.githubusercontent.com/97120244/198111117-78e802e2-c8ef-4e8e-a241-9bcacf10038b.jpg)
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
