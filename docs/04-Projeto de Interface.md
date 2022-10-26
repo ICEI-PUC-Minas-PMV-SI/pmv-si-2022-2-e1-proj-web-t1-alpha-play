@@ -25,7 +25,8 @@ A interação com o usuário começa na homepage. Por ela o usuário terá acess
 ### Login
 A partir da Homepage, através do "Botão de cadastro(Login)" o usuário será direcionado à página de Login, onde irá encontrar dois campos, que seram preenchidos com a informação ja cadastrada pelo usuário. Logo abaixo dos campos de login, o usuário que não possuir cadastro poderá clicar em "cadastre-se" e escrever suas informações.
 
-![Login](https://user-images.githubusercontent.com/111810318/194677501-442a593a-5923-48f5-8344-f68e0fa1788d.png)
+![Login](https://user-images.githubusercontent.com/97120244/198100148-806ea8ef-d94c-4da1-b595-155fadadede4.png)
+
 
 ### Cadastro
 Caso o usuário não possua conta na plataforma, o usuário poderá faze-la a partir da página de login logo abaixo clicando em "cadastre-se", onde será redirecionado a página de cadastro; Na página o usuário inserir suas informações como: Nome, Senha e Confirmação de senha; Caso o usuário clique errado em "Cadastre-se", poderá, logo abaixo, clicar em "faça login" e poderá retornar ao seu login. 
