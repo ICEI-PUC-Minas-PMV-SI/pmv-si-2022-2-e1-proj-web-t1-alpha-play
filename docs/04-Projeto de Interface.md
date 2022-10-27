@@ -5,7 +5,8 @@
 
 ## User Flow
 
-![Userflow](https://user-images.githubusercontent.com/111810318/198109478-c4e88839-bdc5-4be5-848f-a9e1c4a98e9c.png)
+![Userflow](https://user-images.githubusercontent.com/111810318/198162394-70b4dad8-1314-499a-a312-58e3d29e219c.png)
+
 
 
 
@@ -35,7 +36,8 @@ A partir da Homepage, através do "Botão de Login" o usuário será direcionado
 ### Recuração de Senha
 Caso o usuário já tenha se cadastrado e não lembra seu Nickname, poderá solicitar a recuperação de sua senha através da página de login logo abaixo da box "senha" em "Esqueceu sua senha?", quando clicar será redirecionado a mudança de senha e assim voltará a ter acesso novamente à sua conta.
 
-![Recuperação de senha](https://user-images.githubusercontent.com/111810318/198110367-2d32094e-6830-4a38-95b3-8589e377ba0e.png)
+![Recuperação de senha](https://user-images.githubusercontent.com/111810318/198162409-410283f2-b237-4cb5-9538-825737689f08.png)
+
 
 
 
