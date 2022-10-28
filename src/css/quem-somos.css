@@ -1,0 +1,47 @@
+
+
+main{
+    color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 10px;
+    border-color: #000000;
+    inline-size: auto;
+    min-height: 100vh;
+    inline-size: block;
+    
+}
+
+#titulo{
+    text-align: center;
+}
+
+ .nos{
+    padding-top: 30px;
+    text-align: center;
+    inline-size: block;
+    position: absolute;
+    display: inline;
+ }
+
+ 
+.sinopse{
+    color: #000000;
+    padding-top: 150px;
+}
+
+ .col-sm-12 {
+
+    border-style: groove;
+    display: inline-block;
+    height: 400px;
+    width: 290px;
+    border-color: #B3BFF5;
+    border-width: 2px;
+    text-align: center;
+ }
+ .sinopse p{
+    margin: auto;
+    
+ }
+ 
