@@ -29,6 +29,9 @@ main{
     display: inline;
  }
 
+ #titulo{
+    color: #B3BFF5;
+ }
  
 .sinopse{
     color: #000000;
@@ -41,8 +44,8 @@ main{
     display: inline-block;
     height: 300px;
     width: 290px;
-    border-color: #B3BFF5;
-    border-width: 2px;
+    border-color: #0C1F75;
+    border-width: 3px;
     text-align: center;
  }
  .sinopse p{
