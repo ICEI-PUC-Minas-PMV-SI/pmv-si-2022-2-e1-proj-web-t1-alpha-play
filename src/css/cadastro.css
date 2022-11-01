@@ -6,6 +6,11 @@ body{
 
 /*login*/
 
+.cadastro{
+    text-align: center;
+    margin: auto;
+}
+
 .area-login{
     display: flex;
     height: 100vh; /*ocupa todo o navegador*/
@@ -13,7 +18,7 @@ body{
     align-items: center;
 }
 
-.Cadasrto{
+.cadastro{
    display: flex;
    flex-direction: column;
    align-items: center;
@@ -25,14 +30,14 @@ body{
     
 }
 
-.Cadastro form{
+.cadastro form{
     display: flex;
     flex-direction: column;
     width: 100%
 
 }
 
-.Cadastro input{
+.cadastro input{
     margin-top: 10px;
     background-color:#B3BFF5 ;
     border: none;
@@ -45,7 +50,7 @@ body{
     
 }
 
-.Cadastrotitle{
+.cadastrotitle{
     margin-top: 32px;
     color: #B3BFF5;
     text-align: center;
