@@ -15,7 +15,6 @@ Alpha play consiste em um projeto realizado por alunos do curso de Sistemas de I
 * Isabel da Silva Viana
 * Kauan Pablo Freitas de Assis Campos
 * Lucas Gabriel Ramos da Silva
-* Nathalia dos Santos Oliveira
 * Samara Mariah dos Santos
 
 ## Orientador
