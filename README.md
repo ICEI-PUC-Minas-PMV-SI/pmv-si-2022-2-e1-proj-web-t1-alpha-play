@@ -1,12 +1,20 @@
-# Alpha play
+<div align="center">
+
+<h1>ALPHA PLAY</h1>
+
+
+
+<h3>Pontifícia Universidade Católica de Minas Gerais</h3>
 
 `Sistemas de Informação`
 
-`PROJETO: APLICAÇÕES WEB`
+`PROJETO: APLICAÇÕES WEB` | `PRIMEIRO SEMESTRE`
 
-`PEIMEIRO SEMESTRE`
+<div align="justify">
 
 Alpha play consiste em um projeto realizado por alunos do curso de Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais (PUCMG) que tem como intuito desenvolver um sistema interativo voltado para crianças em fase de alfabetização, pais e professores.
+
+Analisando a usabilidade da internet de maneira indevida através do consumo de conteúdos fúteis pelas crianças, trazemos a possibilidade do uso desta ferramenta como fonte de aprendizado de forma agradável e segura. 
 
 
 ## Integrantes
