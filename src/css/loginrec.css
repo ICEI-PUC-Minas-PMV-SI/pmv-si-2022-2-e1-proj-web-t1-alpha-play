@@ -61,18 +61,19 @@ body{
     
 } 
 
-.log [type="submit"]{   /*botão login*/
+#botao{                            /*botão login*/
     display: block;
     background-color: #0C1F75;
     font-size: 20px;
     color: #B3BFF5;
-    width: 200px;
+    width: 210px;
+    height: 50px;
     font-weight: bold;
     cursor: pointer;
-    margin-left: 70px;
+    margin-left: 50pxpx;
     margin-top: 43px;
-    
-    
+    border-radius: 10px;
+
 }
 
  
@@ -80,12 +81,12 @@ body{
 .cad{              /*É novo por aqui, cadastre-se*/
     color:aliceblue; 
     font-size: 10px;
-    margin-left: 100px;
 }
 
 .loginrec{                   /*esqueceu a senha*/
     font-size: 10px;
     margin-left: 250px;
+    margin-top: 5px;
     
 }
 
