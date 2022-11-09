@@ -232,14 +232,14 @@ footer {
  .ilustracaojogos{
     
   border-radius: 20px;
-  background: gray;
+  background: #495DB7;
   padding: 0px;
   width: 500px;
   height: 50px;
  }
 
  .caixadejogo{
-    background-color: aqua;
+    background-color: #d3d3d3;
     width: 200px;
     display: inline-block;
     height: 120px;
