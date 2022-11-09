@@ -188,17 +188,11 @@ footer {
  #qms_botao {
     border-radius: 50px;
  }
-
- #login_botao:hover{
-    color: #ffffff;
-    background-color: #B3BFF5;
-    border-radius: 3px;
-    transition: 2s;
- }
  
- #login_botao {
-    border-radius: 50px;
- }
+ .logado{
+  color:#495DB7;
+  padding-top: 20px;      
+}
 
  .footer_{
     margin-bottom: 50px;
@@ -207,7 +201,7 @@ footer {
  }
 
  #contato{
-    color: #ffffff;
+    color: white;
  }
 
  
