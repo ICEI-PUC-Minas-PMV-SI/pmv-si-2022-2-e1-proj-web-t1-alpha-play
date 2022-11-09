@@ -27,6 +27,7 @@ main{
     inline-size: block;
     position: absolute;
     display: inline;
+    margin: auto;
  }
 
  #titulo{
@@ -43,10 +44,10 @@ main{
     border-style: groove;
     display: inline-block;
     height: 300px;
-    width: 290px;
+    width: 280px;
     border-color: #0C1F75;
     border-width: 3px;
-    text-align: center;
+    margin: auto;
  }
  .sinopse p{
     margin: auto;
