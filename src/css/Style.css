@@ -94,10 +94,10 @@ h1{
 }
 
 .Busca {
-    width: 500px;
+    width: 395px;
     border: solid 3px;
     height: 25px;
-}
+    }
 
 #logo {
     width: 100px;
@@ -125,6 +125,13 @@ h1{
     border-radius: 50px;
  }
 
+ .imagemha{
+    width: 60px;
+    margin-top: 10px;
+    border-radius: 100%;
+    
+ }
+
 /* botões */
 .botao{
     background-color: #0C1F75;
@@ -134,6 +141,7 @@ h1{
     font-weight: bold;
     cursor: pointer;
     height: 25px;
+    
 }
 
 /*rodapé */
