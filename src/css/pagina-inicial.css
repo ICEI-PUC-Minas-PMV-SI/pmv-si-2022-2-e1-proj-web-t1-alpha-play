@@ -191,8 +191,12 @@ footer {
  
  .logado{
   color:#495DB7;
-  padding-top: 20px;      
-}
+  padding-top: 20px;
+  height: 70px;
+  width: 200px;
+  padding-left: 60px;
+ }
+
 
  .footer_{
     margin-bottom: 50px;
