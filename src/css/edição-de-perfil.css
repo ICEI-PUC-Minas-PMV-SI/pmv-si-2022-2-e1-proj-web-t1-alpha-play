@@ -7,7 +7,7 @@ body{
         height: 100vh; /*ocupa todo o navegador*/
         justify-content: center;
         align-items: center;
-        margin-bottom: 700px;
+        margin-bottom: 900px;
     }
     
     .login{
@@ -15,8 +15,8 @@ body{
        flex-direction: column;
        align-items: center;
         background-color:   #B3BFF5;
-        width: 200px;
-        height: 200px;
+        width: 290px;
+        height: 290px;
         padding: 35px;
         border-radius: 10px;
         
@@ -32,14 +32,7 @@ body{
     }
     
    
-    .logintitle{
-        margin-top: 32px;
-        color: black;
-        text-align: center;
-        font-size: 35px;
-        
-    }
-    
+   
     
     #botao{                            /*botão */
         display: block;
@@ -51,13 +44,36 @@ body{
         font-weight: bold;
         cursor: pointer;
         margin-left: 50pxpx;
-        margin-top: 160px;
+        margin-top: 10px;
         border-radius: 10px;
     }
 
+    .circle-image{
+            display: block;
+            border-radius: 50%;
+            overflow: hidden;
+            width: 250px;
+            height: 250px;
+          }
+          .circle-image img {
+            width: 100%;
+            height: 100%;
+            object-fit:cover;
+          }
     
     
-     
+    .avatares{
+        display: table-row;
+        flex-direction: column;
+        align-items: center;
+         background-color:   #B3BFF5;
+         width: 290px;
+         height: 290px;
+         padding: 35px;
+         border-radius: 10px;
+         margin-top: 100px;
+        float: right;
+    } 
    
     
 
