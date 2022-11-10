@@ -16,7 +16,7 @@ body{
        display: flex;
        flex-direction: column;
        align-items: center;
-        background-color:   #B3BFF5;
+        background-color:  #040B29;
         width: 150px;
         height: 150px;
         padding: 35px;
@@ -43,20 +43,21 @@ body{
         background-color: #0C1F75;
         font-size: 20px;
         color: #B3BFF5;
-        height: 45px;
+        height: 25px;
         font-weight: bold;
         cursor: pointer;
         border-radius: 10px;
         margin: auto;
-        margin-top: 28px;
+        margin-top: 5px;
+        width: 150px;
     }
 
     .circle-image{
             display: block;
             border-radius: 50%;
             overflow: hidden;
-            width: 100px;
-            height: 100px;
+            width: 150px;
+            height: 150px;
             margin: auto;
           }
           .circle-image img {
@@ -70,7 +71,7 @@ body{
         display: table-row;
         flex-direction: column;
         align-items: center;
-         background-color:   #B3BFF5;
+         background-color:  #040B29;
          width: 150px;
          height: 150 px;
          padding: 35px;
@@ -79,6 +80,7 @@ body{
         float: right;
         margin-left: 5px;
         margin-right: 5px;
+        
     }   
    
     
