@@ -39,6 +39,11 @@ main{
     margin-top: 150px;
 }
 
+#texto{
+   margin: auto;
+   text-align: center;
+}
+
  .col-sm-12 {
 
     border-style: groove;
