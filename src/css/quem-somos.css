@@ -22,12 +22,12 @@ main{
 }
 
  .nos{
-    padding-top: 30px;
+    margin-top: 30px;
     text-align: center;
     inline-size: block;
     position: absolute;
     display: inline;
-    margin: auto;
+
  }
 
  #titulo{
@@ -36,7 +36,7 @@ main{
  
 .sinopse{
     color: #000000;
-    padding-top: 150px;
+    margin-top: 150px;
 }
 
  .col-sm-12 {
@@ -47,10 +47,18 @@ main{
     width: 280px;
     border-color: #0C1F75;
     border-width: 3px;
-    margin: auto;
  }
  .sinopse p{
     margin: auto;
     
  }
+
  
+ .block{
+    margin-left: 150px;
+    margin-right: 150px;
+ }
+ 
+ .card-centralizar{
+    margin: auto;
+ }
