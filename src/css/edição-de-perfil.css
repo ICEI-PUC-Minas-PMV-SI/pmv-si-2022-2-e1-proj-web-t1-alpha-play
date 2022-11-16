@@ -3,7 +3,7 @@ body{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
     
 
-    .area-login{
+    .area-edicaoperfil{
         display: flex;
         height: 100vh; /*ocupa todo o navegador*/
         justify-content: center;
@@ -12,7 +12,7 @@ body{
 
     }
     
-    .login{
+    .edicaoperfil{
        display: flex;
        flex-direction: column;
        align-items: center;
@@ -27,7 +27,7 @@ body{
         
     }
     
-    .login form{
+    .edicaoperfil form{
         display: flex;
         flex-direction: column;
         width: 100%;
@@ -38,7 +38,7 @@ body{
    
    
     
-    #botao{                            /*botão */
+    #botao{                            /*botão alterar avatar */
         display: block;
         background-color: #0C1F75;
         font-size: 20px;
@@ -84,7 +84,7 @@ body{
     }   
    
     
-    #botaologout{                            /*botão logout e página inicial */
+    #botaologoutepi{                            /*botão logout e página inicial */
         display: block;
         background-color: #0C1F75;
         font-size: 20px;
