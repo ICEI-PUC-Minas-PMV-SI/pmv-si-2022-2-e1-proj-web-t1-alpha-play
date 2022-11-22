@@ -67,6 +67,7 @@ body{
 .cad{              /*É novo por aqui, cadastre-se*/
     color:aliceblue; 
     font-size: 10px;
+    margin-left: 100px;
 }
 
 .loginrec{                   /*esqueceu a senha*/
@@ -82,6 +83,24 @@ a{
     text-decoration: none;      /*tirar o sublinhado*/
     margin-left: 10px
 }
+
+.log [type="button"]{                           /*botão login */
+    display: block;
+    background-color: #0C1F75;
+    font-size: 20px;
+    color: #B3BFF5;
+    width: 210px;
+    height: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 65px;
+    margin-top: 43px;
+    border-radius: 10px;
+}
+
+
+
+
 
 
 /*css da recuperação de senha*/
@@ -140,7 +159,9 @@ a{
     
 }
 
-#botao{                            /*botão */
+
+
+.rec [type="button"]{                           /*botão recuperação senha */
     display: block;
     background-color: #0C1F75;
     font-size: 20px;
@@ -149,11 +170,10 @@ a{
     height: 50px;
     font-weight: bold;
     cursor: pointer;
-    margin-left: 50pxpx;
-    margin-top: 43px;
+    margin-left: 65px;
+    margin-top: 60px;
     border-radius: 10px;
 }
-
 
 
 
