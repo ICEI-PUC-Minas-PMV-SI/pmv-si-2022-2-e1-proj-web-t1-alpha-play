@@ -21,7 +21,6 @@ Analisando a usabilidade da internet de maneira indevida através do consumo de 
 ## Integrantes
 
 * Anna Giulia Rezende Santos 
-* Isabel da Silva Viana
 * Kauan Pablo Freitas de Assis Campos
 * Lucas Gabriel Ramos da Silva
 * Samara Mariah dos Santos
