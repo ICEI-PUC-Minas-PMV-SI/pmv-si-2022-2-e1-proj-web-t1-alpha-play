@@ -54,7 +54,7 @@
                 <input type="text" id="nome" name="nome" placeholder="Nickname" autofocus>
                 <input type="password" id="senha" name="senha" placeholder="Senha" >
                 <p class="loginrec"><a href="http://127.0.0.1:5502/src/recupera%C3%A7aodesenha.html">Esqueceu a senha?</a></p>
-                <button type="submit" class="logue" onclick="buscaUsuario();" data-bs-toggle="modal" data-bs-target="#modalConfirmar">Entrar</button>
+                <button type="reset" class="logue" onclick="buscaUsuario(document.getElementById('nome').value, document.getElementById('senha').value);" data-bs-toggle="modal" data-bs-target="#modalConfirmar">Entrar</button>
             <p class="cad">É novo por aqui?<a href="http://127.0.0.1:5502/src/cadastro.html">Cadastre-se</a></p>
             </form>
 
