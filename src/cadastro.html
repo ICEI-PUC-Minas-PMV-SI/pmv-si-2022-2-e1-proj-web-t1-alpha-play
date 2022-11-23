@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/src/css/loginrec.css">  <!--CSS da página login e recuperação de senha-->
     <link rel="stylesheet" href="/src/css/Style.css">     <!--CSS da masterpage-->
     <link rel="stylesheet" href="/src/css/cadastro.css">   <!--CSS da página de cadastro-->
+    <script type="text/javascript" src="/src/js/cadastro.js" ></script>
 </head>
 <body>
 
@@ -53,13 +54,17 @@
             </div>
 
             <form class="log">
-                <input type="text" name="nome" placeholder="Nickname" autofocus>
-                <input type="password" name="senha" placeholder="Senha" >
-                <input type="password" name="senha" placeholder="Confirmar senha" >
-                <input type="submit" value="Entrar">
+                <input type="text" id="nome "name="nome" placeholder="Nickname" autofocus>
+                <input type="password" id="senha" name="senha" placeholder="Senha" >
+                <input type="password" id="confsenha" name="senha" placeholder="Confirmar senha" >
+                <button type="submit" class="cadastre" onclick="cadastrar();" data-bs-toggle="modal" data-bs-target="#modalConfirmar">Cadastrar</button>
                 <p class="cad">Já possui conta?<a href="#">Entrar</a></p>
             </form>
         </div>
+
+        <script>
+          atual=document.getElementById("cadastro");     
+      </script>
 </section>
 
 
