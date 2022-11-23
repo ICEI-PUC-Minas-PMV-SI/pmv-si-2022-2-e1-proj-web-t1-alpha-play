@@ -78,7 +78,7 @@
     
 } 
 
-.log [type="submit"]{   /*botão login*/
+ .cadastre{   /*botão cadastro*/
     display: block;
     background-color: #0C1F75;
     font-size: 20px;
@@ -87,18 +87,20 @@
     font-weight: bold;
     cursor: pointer;
     margin-left: 70px;
-    margin-top: 43px;
+    margin-top: 32px;
+    border-radius: 10px;
+    height: 50px;
     
     
 }
 
  
 
-.cad{              /*Já passui conta, entrar*/
+.cad{              /*Já passui conta, faça login*/
     color:aliceblue; 
     font-size: 10px;
     margin: auto;
-    margin-top: 10px;
+    margin-top: 4px;
 }
 
 

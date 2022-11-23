@@ -84,7 +84,7 @@ a{
     margin-left: 10px
 }
 
-.log [type="button"]{                           /*botão login */
+.logue{                           /*botão login */
     display: block;
     background-color: #0C1F75;
     font-size: 20px;
@@ -161,7 +161,7 @@ a{
 
 
 
-.rec [type="button"]{                           /*botão recuperação senha */
+.alterar {                           /*botão recuperação senha */
     display: block;
     background-color: #0C1F75;
     font-size: 20px;
