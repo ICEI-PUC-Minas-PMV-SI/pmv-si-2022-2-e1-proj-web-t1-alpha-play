@@ -8,29 +8,22 @@ body{
         height: 100vh; /*ocupa todo o navegador*/
         justify-content: center;
         align-items: center;
-        margin-bottom: 600px;
 
     }
     
     .login{
-       display: flex;
-       flex-direction: column;
-       align-items: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         background-color:  #040B29;
-        width: 250px;
-        height: 260px;
-        padding: 35px;
+        width: 450px;
+        height: 500px;
         border-radius: 10px;
         margin: auto;
         margin-top: 150px;
         
         
     }
-    
-
-    
-   
-   
     
     #botao{                            /*botão */
         display: block;
@@ -53,6 +46,7 @@ body{
             width: 250px;
             height: 250px;
             margin: auto;
+            margin-top: 10px;
           }
           .circle-image img {
             width: 100%;
@@ -68,7 +62,7 @@ body{
         font-size: 20px;
         color: #B3BFF5;
         width: 210px;
-        height: 50px;
+        height: 60px;
         font-weight: bold;
         cursor: pointer;
         border-radius: 10px;
@@ -84,6 +78,8 @@ body{
         border-radius: 5px;
         width: 300px;
         height: 25px;
+        margin-left: 70px;
+        border-radius: 8pxpx;
     }
 
     #senha{
@@ -93,6 +89,8 @@ body{
         border-radius: 5px;
         width: 300px;
         height: 25px;
+        margin-left: 70px;
+        border-radius: 8px;
     }
 
     #botao_salvar{
@@ -106,7 +104,7 @@ body{
         cursor: pointer;
         border-radius: 10px;
         margin: auto;
-        margin-top: 80px;
+        margin-top: 30px;
         width: 150px;
     }
 
