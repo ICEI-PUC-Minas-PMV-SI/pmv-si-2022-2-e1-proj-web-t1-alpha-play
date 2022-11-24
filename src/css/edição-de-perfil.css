@@ -4,25 +4,20 @@ body{
     
 
     .area-edicaoperfil{
-        display: flex;
-        height: 100vh; /*ocupa todo o navegador*/
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 1000px;
-
+        display: inline-block;
+         justify-content: center;
+       
     }
     
     .edicaoperfil{
-       display: flex;
        flex-direction: column;
-       align-items: center;
         background-color:  #040B29;
         width: 150px;
         height: 150px;
         padding: 35px;
         border-radius: 10px;
         margin: auto;
-        margin-top: 400px;
+        margin-top: 140px;
         
         
     }
@@ -68,7 +63,6 @@ body{
     
     
     .avatares{
-        display: table-row;
         flex-direction: column;
         align-items: center;
          background-color:  #040B29;
