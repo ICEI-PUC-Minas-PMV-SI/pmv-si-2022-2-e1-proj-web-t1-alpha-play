@@ -7,6 +7,7 @@
     <title>Recuperação de senha</title>
     <link rel="stylesheet" href="/src/css/loginrec.css">  <!--CSS da página login e recuperação de senha-->
     <link rel="stylesheet" href="/src/css/Style.css">     <!--CSS da masterpage-->
+    <script type="text/javascript" src="js/recuperaçaodesenha.js" ></script>
 </head>
 <body>
 
@@ -51,9 +52,9 @@
             </div>
 
             <form class="rec">
-                <input type="text" name="nome" placeholder=" Nickname" >
-                <input type="password" name="senha" placeholder=" Nova senha" >
-                <button type="submit" class="alterar" onclick="alterar();" data-bs-toggle="modal" data-bs-target="#modalConfirmar">Confirmar</button>
+                <input type="text" id="nome" placeholder=" Nickname" >
+                <input type="password" id="senha" placeholder=" Nova senha" >
+                <button type="submit" class="alterar" onclick="alterar(document.getElementById('nome').value, document.getElementById('senha').value);" data-bs-toggle="modal" data-bs-target="#modalConfirmar">Confirmar</button>
                
             </form>
           
