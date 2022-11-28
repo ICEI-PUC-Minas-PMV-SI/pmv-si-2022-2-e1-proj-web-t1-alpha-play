@@ -21,49 +21,66 @@
 
    <!--Css da página--> 
    <link rel="stylesheet" href="/src/css/pagina-inicial.css">
-   <link rel="stylesheet" href="/src/css/Style.css">
+   <link rel="stylesheet" href="/src/css/pagina-logada.css">
   <style> 
     #imagem1{
       background-image: url(imgs/backmatematica.jpg) ;
+      background-size: 100%;
+      background-repeat: no-repeat;
+      border-radius: 20px;
     }
       #img2{
       background-image: url(imgs/backportugues.jpg) ;
+      background-size: 100%;
+      background-repeat: no-repeat;
+      border-radius: 20px;
+      align-items: center;
+      justify-content: center;
       }
       #img3{
       background-image: url(imgs/backciencias.jpg) ;
+      background-size: 100%;
+      background-repeat: no-repeat;
+      border-radius: 20px;
       }
       #img4{
       background-image: url(imgs/backhistoria.jpg) ;
+      background-size: 100%;
+      background-repeat: no-repeat;
+      border-radius: 20px;
       }
       #img5{
       background-image: url(imgs/backgeografia.jpg) ;
+      background-size: 100%;
+      background-repeat: no-repeat;
+      border-radius: 20px;
       }
       #img6{
       background-image: url(imgs/backingles.jpg) ;
-           
-    }
-    #fundo{
-      background-image: url(imgs/fundo-site.png);
+      background-size: 100%;
+      background-repeat: no-repeat;
+      border-radius: 20px;
+      
     }
   </style>
   </head>
 
 <!--Corpo da página-->
 
-<body id="fundo" class="p-3 m-0 border-0 bd-example" src="imgs/fundo-site.png">
+<body class="main-bg" class="p-3 m-0 border-0 bd-example">
   >
   <aside class="menu">
 
     <!--Logo-->
 
     <div class=" menu-content">
-      <img class="logo" src="Imgs/logoAlpha.png">
+      <img id="logo" src="Imgs/logoAlpha.png">
       
       <!--Barra de Pesquisa-->
 
-      <form>
-        <input class="barra-pesquisa" type="search" placeholder="Buscar jogos" aria-label="Pesquisar">
-        <button class="botao-pesquisa" type="submit">Pesquisar</button>
+      <form class="form-inline my-2 my-lg-0">
+        <input class="Busca" type="search" placeholder="Buscar jogos" aria-label="Pesquisar">
+        <button class="botao" type="submit">Pesquisar</button>
       </form>
 
       <!--Menu-->
@@ -71,8 +88,7 @@
       <nav>
         <ul>
           <li id="qms_botao"><a href="#intro">Quem somos</a></li>
-          <li class="logado" src="imgs/imagemha.jpg">Peter Parker</li>
-          <li><img src="imgs/imagemha.jpg" class="imagemha"></li>
+          <li id="login_botao"><a href="#contact">Login</a></li>
         </ul>
 
       </nav>
@@ -128,26 +144,34 @@
       
       <spam class="letras">
         <nav class="caixas">
-          <ul id="imagem1"><a href="#matematica">Matemática</a></ul>
+          <ul>
+            <li id="imagem1"><a href="#matematica">Matemática</a></li>
+          </ul>
         </nav >
         <nav class="caixas">
-          <ul id="img2"><a href="#Português">Português</a></ul>
+          <ul>
+            <li id="img2"><a href="#Português">Português</a></li>
+          </ul>
         </nav>
-
         <nav class="caixas">
-          <ul id="img3"><a href="#Ciências">Ciências</a></ul>
+          <ul>
+            <li id="img3"><a href="#Ciências">Ciências</a></li>
+          </ul>
         </nav>
-
         <nav class="caixas">
-          <ul id="img4"><a href="#História">História</a></ul>
+          <ul>
+            <li id="img4"><a href="#História">História</a></li>
+          </ul>
         </nav>
-
         <nav class="caixas">
-          <ul id="img5"><a href="#Geografia">Geografia</a></ul>
+          <ul>
+            <li id="img5"><a href="#Geografia">Geografia</a></li>
+          </ul>
         </nav>
-
         <nav class="caixas">
-          <ul id="img6"><a href="#Inglês">Inglês</a>></ul>
+          <ul>
+            <li id="img6"><a href="#Inglês">Inglês</a></li>
+          </ul>
         </nav>
       </spam> 
     </div>
@@ -237,13 +261,13 @@
         </div>
 
         <div class="col">
-          <img id="logoFooter" src="Imgs/logoAlpha.png" alt="logo" width="120" height="100"><br>
+          <img id="logoFooter" src="Imgs/logoAlpha.png" alt="logo" width="60" height="50"><br>
           <p>Alpha Play &copy 2022 Copyright</br></p>
           <p>Todos os direitos reservados <br><br></p>
           <b>Apoio</b><br>
           <a href="https://www.pucminas.br/vestibular/Paginas/default.aspx?utm_source=google&utm_medium=search&utm_campaign=vestibular-22&gclid=EAIaIQobChMI6LjkzqbZ8wIVhg-RCh2F8gu1EAAYASAAEgL5avD_BwE"
             target="_blank">
-            <img src="Imgs\logo-puc.jpeg" alt="Logo PUC Minas" width="140" height="100">
+            <img src="Imgs\logo-puc.jpeg" alt="Logo PUC Minas" width="70" height="60">
           </a>
         </div>
 
