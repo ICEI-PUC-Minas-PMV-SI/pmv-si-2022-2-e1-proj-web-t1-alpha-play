@@ -89,14 +89,16 @@ h1{
 
 .Busca:hover{
     border: solid 5px #B3BFF5;
-    width: 500px;
+    width: 395px;
     height: 25px;
+    transition: 1s;
 }
 
 .Busca {
     width: 395px;
     border: solid 3px;
     height: 25px;
+    font-size: 15px;
     }
 
 #logo {
@@ -172,3 +174,36 @@ footer {
  .contato{
     padding-left: 10px;
  }
+ #imagem1{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+  }
+    #img2{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    }
+    #img3{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    }
+    #img4{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    }
+    #img5{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    }
+    #img6{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    
+  }

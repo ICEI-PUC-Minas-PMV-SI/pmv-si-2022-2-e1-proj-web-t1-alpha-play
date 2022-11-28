@@ -89,18 +89,23 @@ h1{
 
 .Busca:hover{
     border: solid 5px #B3BFF5;
-    width: 500px;
+    width: 395px;
     height: 25px;
+    transition: 1s;
 }
 
 .Busca {
     width: 395px;
     border: solid 3px;
     height: 25px;
+    height: 25px;
+    font-size: 15px;
+    
     }
 
 #logo {
     width: 100px;
+    
 }
 
 #qms_botao:hover {
@@ -112,25 +117,26 @@ h1{
 
  #qms_botao {
     border-radius: 50px;
+    width: 200px;
+    padding-top: 40px;
  }
 
- #login_botao:hover{
-    color: #ffffff;
-    background-color: #B3BFF5;
-    border-radius: 3px;
-    transition: 2s;
- }
- 
- #login_botao {
-    border-radius: 50px;
- }
-
- .imagemha{
-    width: 60px;
-    margin-top: 10px;
-    border-radius: 100%;
+.login{
+    font-size: 25px;
+    width: 190px;
+    padding-top: 40px;
+    
+}
+ .imagem-perfil{
+   width: 100px;
+   padding-inline-start: 10px;
+   margin-top: 30px;    
+    
     
  }
+
+
+ 
 
 /* botões */
 .botao{
@@ -141,7 +147,10 @@ h1{
     font-weight: bold;
     cursor: pointer;
     height: 25px;
+    margin-bottom: 20px;
+    padding-top: 4px;
     
+
 }
 
 /*rodapé */
@@ -172,3 +181,35 @@ footer {
  .contato{
     padding-left: 10px;
  }
+ #imagem1{
+      background-size: 100%;
+      background-repeat: no-repeat;
+      border-radius: 20px;
+ }
+ #img2{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    }
+    #img3{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    }
+    #img4{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    }
+    #img5{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    }
+    #img6{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    }
