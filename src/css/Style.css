@@ -7,7 +7,6 @@ html{
     scroll-behavior: smooth;
 }
 
-
 .section{
     min-height: 100vh;
 
@@ -148,18 +147,19 @@ h1{
 
 /*rodapé */
 
-
+   
 footer {
+    width: 100%;
     position: absolute;
-    height: 240px;
+   
     background: linear-gradient(to bottom, #B3BFF5, #495DB7);
    
-}
+    }
 
-.footer_{
+
+.footer_{ 
     margin-bottom: 50px;
     padding-bottom: 50px;
-    width: 100%;
  }
 
  
