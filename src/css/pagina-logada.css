@@ -1,93 +1,75 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-html{
-    font-size: 62,5%;
+
+html {
+    font-size: 62, 5%;
     scroll-behavior: smooth;
 }
 
 
-.section{
+.section {
     min-height: 100vh;
 
 }
 
 /* Barra de navegação */
-.main-bg{
+.main-bg {
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
     color: white;
-    }
+}
 
-.menu-content{
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 2rem;
+.menu-content {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 1.6rem;
     align-items: center;
     display: flex;
     justify-content: space-between;
-    padding-top: 0%;
-    padding-bottom: 0%;
+
 }
 
-.menu{
+.form-inline {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
     background-color: white;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     width: 100%;
-    padding: 0.1rem;
     border-bottom: 5px solid #0C1F75;
     z-index: 1;
 }
 
 .menu ul {
     list-style: none;
-    display: flex; 
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-h1 a{
+h1 a {
     color: #020133;
 }
 
-.menu ul li a{
-    display: block;
-    padding: 1.3rem;
-    color: #020133;
-    position: relative; 
-}
 
-.menu ul li a::after{
-    content: '';
-    position: absolute;
-    bottom: 1rem;
-    left: 20%;
-    width: 0;
-    height: 0.2rem;
-    background-color:#020133 ;
-    transition: all 300ms ease-in-out;
-
-}
-.menu ul li a:hover:after{
-    width: 65%;
-    left: 20%;
-}
-
-h1{
+h1 {
     font-size: 2.5rem;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.Busca:hover{
+.Busca:hover {
     border: solid 5px #B3BFF5;
     width: 395px;
     height: 25px;
@@ -100,46 +82,67 @@ h1{
     height: 25px;
     height: 25px;
     font-size: 15px;
-    
-    }
+    margin-right: 5px;
+}
 
 #logo {
     width: 100px;
-    
+    margin-left: 150px;
 }
 
-#qms_botao:hover {
+.botao-navegacao:hover {
     color: #ffffff;
     background-color: #B3BFF5;
     border-radius: 3px;
     transition: 2s;
+    
 }
 
- #qms_botao {
+.botao-navegacao {
+    font-size: 1.5rem;
     border-radius: 50px;
     width: 200px;
-    padding-top: 40px;
- }
-
-.login{
-    font-size: 25px;
-    width: 190px;
-    padding-top: 40px;
+    padding-left: 28px;
     
+
 }
- .imagem-perfil{
-   width: 100px;
-   padding-inline-start: 10px;
-   margin-top: 30px;    
-    
-    
- }
+
+.botao-navegacao a {
+    color:#020133;
+}
 
 
- 
+.botao-navegacao a::after{
+    content: '';
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    width: 0;
+    height: 0.2rem;
+    background-color:#020133 ;
+    transition: all 300ms ease-in-out;
+    margin-left: 325px;
+    top: 70px;
+
+}
+.botao-navegacao a:hover:after{
+    width: 10%;
+}
+.botao-login a{
+    color: #020133;
+    
+
+}
+.imagem-perfil {
+    width: 100px;
+    padding-inline-start: 10px;
+}
+
+
+
 
 /* botões */
-.botao{
+.botao {
     background-color: #0C1F75;
     font-size: 15px;
     color: #B3BFF5;
@@ -147,9 +150,7 @@ h1{
     font-weight: bold;
     cursor: pointer;
     height: 25px;
-    margin-bottom: 20px;
-    padding-top: 4px;
-    
+
 
 }
 
@@ -160,56 +161,62 @@ footer {
     position: absolute;
     height: 240px;
     background: linear-gradient(to bottom, #B3BFF5, #495DB7);
-   
+
 }
 
-.footer_{
+.footer_ {
     margin-bottom: 50px;
     padding-bottom: 50px;
     width: 100%;
- }
+}
 
- 
- #contato{
+
+#contato {
     color: #ffffff;
- }
+}
 
- .col{
+.col {
     text-align: center;
- }
+}
 
- .contato{
+.contato {
     padding-left: 10px;
- }
- #imagem1{
-      background-size: 100%;
-      background-repeat: no-repeat;
-      border-radius: 20px;
- }
- #img2{
+}
+
+#imagem1 {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+
+#img2 {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
     align-items: center;
     justify-content: center;
-    }
-    #img3{
+}
+
+#img3 {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    }
-    #img4{
+}
+
+#img4 {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    }
-    #img5{
+}
+
+#img5 {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    }
-    #img6{
+}
+
+#img6 {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    }
+}
