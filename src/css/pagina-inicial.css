@@ -47,39 +47,12 @@ h1{
     
 
 }
-.menu ul {
-    list-style: none;
-    display: flex;
-    
-}
 
 a{
     text-decoration: none;
 }
 h1 a{
     color: #020133;
-}
-.menu ul li a{
-    display: block;
-    padding: 1.3rem;
-    color: #020133;
-    position: relative;
-    
-}
-.menu ul li a::after{
-    content: '';
-    position: absolute;
-    bottom: 1rem;
-    left: 20%;
-    width: 0;
-    height: 0.2rem;
-    background-color:#020133 ;
-    transition: all 300ms ease-in-out;
-
-}
-.menu ul li a:hover:after{
-    width: 65%;
-    left: 20%;
 }
 .espaco-menu{
     
