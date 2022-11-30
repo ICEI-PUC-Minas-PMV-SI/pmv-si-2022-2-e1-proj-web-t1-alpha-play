@@ -90,29 +90,31 @@ h1 {
     margin-left: 150px;
 }
 
-.botao-navegacao:hover {
+.qms-somos:hover {
     color: #ffffff;
     background-color: #B3BFF5;
     border-radius: 3px;
     transition: 2s;
     
+    
 }
 
-.botao-navegacao {
+.qms-somos {
     font-size: 1.5rem;
     border-radius: 50px;
     width: 200px;
     padding-left: 28px;
+    padding: 20px;
     
 
 }
 
-.botao-navegacao a {
+.qms-somos a {
     color:#020133;
 }
 
 
-.botao-navegacao a::after{
+.qms-somos a::after{
     content: '';
     position: absolute;
     bottom: 1rem;
@@ -125,7 +127,7 @@ h1 {
     top: 70px;
 
 }
-.botao-navegacao a:hover:after{
+.qms-somos a:hover:after{
     width: 10%;
 }
 .botao-login a{
