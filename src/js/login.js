@@ -1,4 +1,4 @@
-var atual; //Armazena o container que está sendo apresentado na tela (cadastro ou relatório)
+var atual; 
 var localStorage = Window.localStorage;
 
 function buscaUsuario(nome, senha){
