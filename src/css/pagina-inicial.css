@@ -7,6 +7,14 @@ html{
     scroll-behavior: smooth ;
 }
 
+body{
+    border-radius: 10px;
+    min-width: 320px;
+    max-width: 100%;
+    margin: auto;
+}
+
+
 .main-content{
     max-width: 1200px;
     margin: 0 auto;
@@ -21,6 +29,7 @@ h1{
 }
 .section{
     min-height: 100vh;
+    margin-top: 160px;
 
 }
 
@@ -102,6 +111,10 @@ h1 a{
     counter-reset: grid-counter;
     margin-top: 10%;
     padding-left: 2%;
+    border-radius: 10px;
+    min-width: 320px;
+    max-width: 100%;
+    margin: auto;
 }
 
 footer {
@@ -198,15 +211,23 @@ footer {
     margin-left:10%;
     margin-bottom: 3%;
     border-radius: 20px;
+    border-radius: 10px;
+    min-width: 320px;
+    max-width: 100%;
+    margin: auto;
     
  }
+ 
  .ilustracaojogos{
     
-  border-radius: 20px;
+  border-radius: 5px;
   background: #495DB7;
-  padding: 0px;
-  width: 500px;
   height: 50px;
+  min-width: 320px;
+  max-width: 100%;
+  margin: auto;
+  margin-left: 10px;
+  margin-right: 10px;
  }
 
  .caixadejogo{
@@ -216,6 +237,10 @@ footer {
     height: 120px;
     align-items: center;
     text-transform: uppercase;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
     
  }
  #imagem1{
