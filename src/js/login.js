@@ -7,6 +7,7 @@ function buscaUsuario(nome, senha){
         var pessoa = JSON.parse(jt); 
         if (document.getElementById("nome").value === pessoa.nome && senha === pessoa.senha) {
             console.log("login sucesso");
+            localStorage.setItem("usuario_logado",pessoa.nome)
             window.location.href = "http://127.0.0.1:5502/src/pagina-iniciallogada.html";
         }
         else{
