@@ -1,155 +1,99 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-html{
-    font-size: 62,5%;
-    scroll-behavior: smooth;
-}
-
-.section{
-    min-height: 100vh;
-
-}
-
-/* Barra de navegação */
+/*novo css*/
 .main-bg{
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
     color: white;
-    }
+}
 
-.menu-content{
-    margin: 0 auto;
-    padding: 2rem;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 1.6rem;
-    align-items: center;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,200;1,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+nav{
     display: flex;
-    justify-content: space-between;
-    padding-top: 0%;
-    padding-bottom: 0%;
-}
-
-.menu{
-    background-color: white;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
+    height: 80px;
     width: 100%;
-    padding: 0.1rem;
-    border-bottom: 5px solid #0C1F75;
-    z-index: 1;
+    background-color: #495DB7;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px 0 100px;
+    flex-wrap: wrap;
 }
 
-.menu ul {
+.section{
+    height: 100vh;
+}
+
+nav .logo{
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+}
+nav ul{
+    display: flex;
+    flex-wrap: wrap;
     list-style: none;
-    display: flex; 
 }
 
-a{
+nav ul li{
+    margin: 0 5px;
+}
+
+nav ul li a{
+    color: #f2f2f2;
     text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 15px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+nav ul li a.active,
+nav ul li a:hover{
+    background: #0C1F75;
 }
 
-h1 a{
-    color: #020133;
-}
-
-.menu ul li a{
-    display: block;
-    padding: 1.3rem;
-    color: #020133;
-    position: relative; 
-}
-
-.menu ul li a::after{
-    content: '';
-    position: absolute;
-    bottom: 1rem;
-    left: 20%;
-    width: 0;
-    height: 0.2rem;
-    background-color:#020133 ;
-    transition: all 300ms ease-in-out;
-
-}
-.menu ul li a:hover:after{
-    width: 65%;
-    left: 20%;
-}
-
-h1{
-    font-size: 2.5rem;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-
-
-.Busca:hover{
-    border: solid 5px #B3BFF5;
-    width: 395px;
-    height: 25px;
-    transition: 1s;
-}
-
-.Busca {
-    width: 395px;
-    border: solid 3px;
-    height: 25px;
-    font-size: 15px;
-    
-    }
-
-#logo {
-    width: 100px;
-}
-
-#qms_botao:hover {
-    color: #ffffff;
-    background-color: #B3BFF5;
-    border-radius: 3px;
-    transition: 2s;
-}
-
- #qms_botao {
-    border-radius: 50px;
- }
-
- #login_botao:hover{
-    color: #ffffff;
-    background-color: #B3BFF5;
-    border-radius: 3px;
-    transition: 2s;
- }
- 
- #login_botao {
-    border-radius: 50px;
- }
-
- .imagemha{
-    width: 60px;
-    margin-top: 10px;
-    border-radius: 100%;
-    
- }
-
-/* botões */
-.botao{
-    background-color: #0C1F75;
-    font-size: 15px;
-    color: #B3BFF5;
-    width: 150px;
-    font-weight: bold;
+nav .menu-btn i{
+    color: #fff;
     cursor: pointer;
-    height: 25px;
-    
+    display: none;
 }
-
-/*rodapé */
-
-   
+@media (max-width: 920px) {
+    nav .menu-btn i{
+        display: block;
+    }
+    nav ul{
+        position: fixed;
+        top: 80px;
+        left: -100%;
+        background-color: #B3BFF5;
+        height: 100vh;
+        width: 100%;
+        text-align: center;
+        display: block;
+        transition: all 0.3s ease;
+    }
+    nav ul.open{
+        left: 0;
+    }
+    nav ul li{
+        width: 100%;
+        margin: 50px 0;
+    }
+    nav ul li a {
+        font-size: 23px;
+    }
+    nav ul li a.active,
+    nav ul li a:hover{
+        background: none;
+        color: #0C1F75;
+    }   
+}
 footer {
     min-width: 320px;
     max-width: 100%;
