@@ -11,7 +11,7 @@ function buscaUsuario(nome, senha){
             window.location.href = "http://127.0.0.1:5502/src/pagina-iniciallogada.html";
         }
         else{
-           window.alert("Poxa 😕! Parece que seus dados estão incorretos, tente novamente ")
+           window.alert("Poxa 😕! Parece que seus dados estão incorretos, tente novamente ");
         }
     }
 }
