@@ -17,38 +17,27 @@
 
    <!--Css da página--> 
    <link rel="stylesheet" href="/src/css/Style.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
   </head>
 
 <!--Corpo da página-->
 
 <body class="main-bg">
-  <aside class="menu">
+  <nav>
+    <img src="imgs/logoAlpha.png" alt="Logo" width="65px" height="65px">
 
-    <!--Logo-->
-
-    <div class=" menu-content">
-      <img id="logo" src="imgs/logoAlpha.png">
-      
-      
-      <!--Barra de Pesquisa-->
-
-      <form class="form-inline my-2 my-lg-0">
-        <input class="Busca" type="search" placeholder="Buscar Jogos" aria-label="Pesquisar">
-        <button class="botao" type="submit">Pesquisar</button>
-      </form>
-
-      <!--Menu-->
-
-      <nav>
-        <ul>
-          <li id="qms_botao"><a href="http://127.0.0.1:5502/src/quem-somos.html">Quem somos</a></li>
-          <li id="login_botao"><a href="http://127.0.0.1:5502/src/login.html">Login</a></li>
-        </ul>
-
-      </nav>
+    <div class="menu-btn">
+        <i class="fa fa-bars fa-2x" onclick="menuShow()"></i>
     </div>
-  </aside>
+
+    <ul>
+        <li> <a href="#" class="active"> Home </a> </li>
+        <li> <a href="#"> Quem somos</a> </li>
+        <li> <a href="#"> Login</a> </li>
+    </ul>
+</nav>
+
 
   <!--Conteúdo-->
 
@@ -60,23 +49,23 @@
   <!--Rodapé-->
   <footer class="footer_">
   
-        <div class="contato"></br></br>
-          Contato: <em>alphaplaypuc@hotmail.com</em>
-        </div>
+    <div class="contato"></br></br>
+      Contato: <em>alphaplaypuc@hotmail.com</em><br><br>
+    </div>
+<br><br>
+    <div class="col">
+      <img id="logoFooter" src="imgs/logoAlpha.png" alt="logo" width="60" height="50"><br>
+      <p>Alpha Play &copy 2022 Copyright</br></p>
+      <p>Todos os direitos reservados <br><br></p>
+      <b>Apoio</b><br>
+      <a href="https://www.pucminas.br/vestibular/Paginas/default.aspx?utm_source=google&utm_medium=search&utm_campaign=vestibular-22&gclid=EAIaIQobChMI6LjkzqbZ8wIVhg-RCh2F8gu1EAAYASAAEgL5avD_BwE"
+        target="_blank">
+        <img src="imgs/logo-puc.jpeg" alt="Logo PUC Minas" width="70" height="60">
+      </a>
+    </div>
 
-        <div class="col">
-          <img id="logoFooter" src="imgs/logoAlpha.png" alt="logo" width="60" height="50"><br>
-          <p>Alpha Play &copy 2022 Copyright</br></p>
-          <p>Todos os direitos reservados <br><br></p>
-          <b>Apoio</b><br>
-          <a href="https://www.pucminas.br/vestibular/Paginas/default.aspx?utm_source=google&utm_medium=search&utm_campaign=vestibular-22&gclid=EAIaIQobChMI6LjkzqbZ8wIVhg-RCh2F8gu1EAAYASAAEgL5avD_BwE"
-            target="_blank">
-            <img src="imgs/logo-puc.jpeg" alt="Logo PUC Minas" width="70" height="60">
-          </a>
-        </div>
+</footer>
 
-  </footer>
-
-
+    <script src="js/style.js"></script>
 </body>
 </html>
