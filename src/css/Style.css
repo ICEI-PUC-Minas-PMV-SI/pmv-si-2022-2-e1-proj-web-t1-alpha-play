@@ -23,7 +23,9 @@ nav{
     padding: 0 50px 0 100px;
     flex-wrap: wrap;
 }
-
+#nome{
+    color: white;
+}
 .section{
     height: 100vh;
 }
