@@ -2,7 +2,11 @@
 
 <h1>ALPHA PLAY</h1>
 
-![Frame 1](https://user-images.githubusercontent.com/111810318/200347480-33b22096-eb8b-450b-acc2-2cd853c598db.png)
+![Frame 1 (3)](https://user-images.githubusercontent.com/111810318/205756903-51e51ebc-af3a-465a-ab4b-9a5dd85538ed.png)
+
+
+
+
 
 
 <h3>Pontifícia Universidade Católica de Minas Gerais</h3>
