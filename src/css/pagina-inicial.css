@@ -112,8 +112,8 @@ h1 a{
     margin-top: 10%;
     padding-left: 2%;
     border-radius: 10px;
-    min-width: 320px;
-    max-width: 100%;
+    min-width: 960px;
+    max-width: 1024px;
     margin: auto;
 }
 
@@ -200,8 +200,7 @@ footer {
     font-size: 35px;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
     font-weight: 600;
-    padding-inline-start: 25%;
-   
+    padding-inline-start: 25%; 
  }
  
  .caixas{
@@ -217,7 +216,7 @@ footer {
     margin: auto;
     
  }
- 
+
  .ilustracaojogos{
     
   border-radius: 5px;
@@ -244,35 +243,66 @@ footer {
     
  }
  #imagem1{
+    
+    background-image: url(../../src/imgs/backmatematica.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
+    min-width: 500px;
+    max-width: 1024px;
+    
+
   }
     #img2{
+    background-image: url(../../src/imgs/backportugues.jpg);
+
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
     align-items: center;
     justify-content: center;
+    min-width: 500px;
+    max-width: 1024px;
+
     }
     #img3{
+    background-image: url(../../src/imgs/backciencias.jpg);
+    
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
+    min-width: 500px;
+    max-width: 1024px;
+
     }
     #img4{
+    background-image: url(../../src/imgs/backhistoria.jpg);
+
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
+    min-width: 500px;
+    max-width: 1024px;
+
     }
     #img5{
+    background-image: url(../../src/imgs/backgeografia.jpg);
+
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
+    min-width: 500px;
+    max-width: 1024px;
+
     }
     #img6{
+        background-image: url(../../src/imgs/backingles.jpg);
+
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
+    min-width: 500px;
+    max-width: 1024px;
+
     }
     

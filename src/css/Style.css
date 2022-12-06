@@ -1,4 +1,5 @@
 /*novo css*/
+
 .main-bg{
     background-attachment: fixed;
     background-position: center center;
@@ -121,8 +122,10 @@ footer {
  .contato{
     padding-left: 10px;
  }
+ 
  .caixas{
     padding-bottom: 80px;
+  
 }
  #imagem1{
     background-size: 100%;
@@ -203,3 +206,4 @@ footer {
     transition: 0.5s;
 
   }
+  
