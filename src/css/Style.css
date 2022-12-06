@@ -127,6 +127,11 @@ footer {
     padding-bottom: 80px;
   
 }
+
+#logoFooter{
+    width: 100px;
+    height: 100px;
+}
  #imagem1{
     background-size: 100%;
     background-repeat: no-repeat;
