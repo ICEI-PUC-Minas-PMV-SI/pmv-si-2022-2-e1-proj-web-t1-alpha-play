@@ -18,7 +18,7 @@ Ao clicar em `Cadastre-se` disponível na tela de `Login`, o usuário será redi
 
 
 
-Será exibido três campos, Nickname/Senha/Confirmar senha, do tipo `input text` com id `nome`, `input password` com id `senha` e `input password` com id `confsenha` que receberão os valores digitados pelo usuário para fazer o cadastro no site. O `button` do tipo `submit` e de classe `cadastre` é para o usuário concluir o cadastro no site. Logo após concluir o cadastro, poderá retornar à página de login através do comando `href` dentro de uma âncora `p` de classe `cad`  "Faça Login". Os dados são registrados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/cadastro.js.
+Será exibido três campos, Nickname/Senha/Confirmar senha, do tipo `input text` com id `nome`, `input password` com id `senha` e `input password` com id `confsenha` que receberão os valores digitados pelo usuário para fazer o cadastro no site. O `button` do tipo `submit` e de classe `cadastre` é para o usuário concluir o cadastro no site. Logo após concluir o cadastro, poderá retornar à página de login através do comando `href` dentro de uma âncora `p` de classe `cad`  "Faça Login" ou clicando em `Login` disponível na `Navbar` do perfil. Os dados são registrados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/cadastro.js.
 
 
 
