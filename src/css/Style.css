@@ -136,7 +136,7 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    width: 400px;
+    width: 500px;
 
   }
   #imagem1:hover{
@@ -151,7 +151,7 @@ footer {
     border-radius: 20px;
     align-items: center;
     justify-content: center;
-    width: 400px;
+    width: 500px;
     }
     #img2:hover{
         transform: scale(1.2); 
@@ -163,7 +163,7 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    width: 400px;
+    width: 500px;
 
     }
     #img3:hover{
@@ -176,7 +176,7 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    width: 400px;
+    width: 500px;
 
     }
     #img4:hover{
@@ -189,7 +189,7 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    width: 400px;
+    width: 500px;
 
     }
     #img5:hover{
@@ -202,7 +202,7 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    width: 100%;
+    width: 500px;
 
   }
   #img6:hover{

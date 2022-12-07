@@ -113,9 +113,9 @@ h1 a{
     padding-left: 2%;
     border-radius: 10px;
     min-width: 960px;
-    max-width: 1024px;
+    max-width: 1400px;
     margin: auto;
-}
+    }
 
 footer {
     height: 172px;
@@ -183,7 +183,6 @@ footer {
 
 
  .footer_{
-    margin-bottom: 50px;
     padding-bottom: 50px;
     width: 100%;
     height: 450px;
@@ -200,19 +199,17 @@ footer {
     font-size: 35px;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
     font-weight: 600;
-    padding-inline-start: 25%; 
+    padding-inline-start: 30%; 
  }
  
  .caixas{
     list-style: none;
-    width: 450px;
+    width: 500px;
     height: 52px;
     margin-left:10%;
     margin-bottom: 3%;
     border-radius: 20px;
     border-radius: 10px;
-    min-width: 320px;
-    max-width: 100%;
     margin: auto;
     
  }
@@ -248,8 +245,6 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    min-width: 500px;
-    max-width: 1024px;
     
 
   }
@@ -261,8 +256,6 @@ footer {
     border-radius: 20px;
     align-items: center;
     justify-content: center;
-    min-width: 500px;
-    max-width: 1024px;
 
     }
     #img3{
@@ -271,8 +264,6 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    min-width: 500px;
-    max-width: 1024px;
 
     }
     #img4{
@@ -281,8 +272,6 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    min-width: 500px;
-    max-width: 1024px;
 
     }
     #img5{
@@ -291,8 +280,6 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    min-width: 500px;
-    max-width: 1024px;
 
     }
     #img6{
@@ -301,8 +288,6 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    min-width: 500px;
-    max-width: 1024px;
 
     }
     
