@@ -18,7 +18,7 @@ Comente sobre as ferramentas de testes utilizadas.
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
-##Resultados Esperados
+Resultados Esperados
 
 | Nº Teste | Página | Cenário de teste |
 |-----------|-----------------------------------------|----|
@@ -31,7 +31,7 @@ Comente sobre as ferramentas de testes utilizadas.
 |TF-007| Cadastro | Caso o usuário não seja cadastro, ele pode fazer seu cadastro na página de Cadastro, ao prencher as informações e clicar em "Cadastrar" será mostrado um mensagem informando que ele deve fazer login com os dados informados. |
 |TF-008| Home | Quando logado, terá uma botão de "Logout" na página inicial logada ao lado de "Quem Somos". |
 |TF-009| Home | Quando clicar em "Logout", será mostrado uma mensagem e após isso o usuário será redirecionado para a págia inicial deslogada. |
-|TF-010| Home | O Site irá hospedar jogos |
+|TF-010| Home | O Site irá hospedar jogos. |
 |TF-011| Home | Na pagina inicial terá um carrossel dos jogos escolhidos como favoritos pelos desenvolvedores. |
 |TF-012| Home | Terá divisões na página inical e logada separando os jogos por matéria. |
 |TF-013| Home | Estará disponível na página inicial seiis jogos de cada matéria, suas dificuldades são de orderm crescente, conforme a opnião e teste dos desenvolvedores do Alpha Play. |
