@@ -56,9 +56,9 @@ nav ul li a{
     letter-spacing: 1px;
     transition: all 0.3s ease;
 }
-nav ul li a.active,
+
 .menu-pagina a:hover{
-    background: #0C1F75;
+    color: #0C1F75;
 }
 
 nav .menu-btn i{
@@ -94,7 +94,7 @@ nav .menu-btn i{
     nav ul li a.active,
     nav ul li a:hover{
         background: none;
-        color: #0C1F75;
+       ;
     }   
 }
 footer {
@@ -132,6 +132,20 @@ footer {
     width: 100px;
     height: 100px;
 }
+
+#logout{
+    
+    background-color: #0C1F75;
+    width: 70px;
+    color: #B3BFF5;
+   
+    cursor: pointer;
+  
+    border-radius: 10px;
+}
+
+
+
  #imagem1{
     background-size: 100%;
     background-repeat: no-repeat;
