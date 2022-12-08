@@ -6,7 +6,7 @@ function buscaUsuario(nome, senha){
     if(jt!=null){ 
         var pessoa = JSON.parse(jt); 
         if (document.getElementById("nome").value === pessoa.nome && senha === pessoa.senha) {
-            window.alert("Boas-vindas alpha players!! Divirta-se aprendendo com a gente 😉");
+            window.alert("Boas-vindas alpha player!! Divirta-se aprendendo com a gente 😉");
             localStorage.setItem("usuario_logado",pessoa.nome)
             window.location.href = "/src/pagina-iniciallogada.html";
             
