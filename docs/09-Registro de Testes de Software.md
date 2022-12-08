@@ -10,15 +10,3 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> | Nº Teste | Página | Cenário de teste |
-|-----------|-----------------------------------------|----|
-|TF-001|  | |
-|TF-002|  | |
-|TF-003|  | |
-|TF-004|  | |
-|TF-005|  | |
-|TF-006|  | |
-|TF-007|  | |
-|TF-008|  | |
-|TF-009|  | |
-|TF-010|  | |
