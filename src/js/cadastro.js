@@ -6,6 +6,7 @@ function cadastrar(){
     novo.nome=document.getElementById("nome").value; 
     novo.senha=document.getElementById("senha").value; 
     novo.confsenha=document.getElementById("confsenha").value; 
+    window.alert("Cadastro concluído! Faça Login 😉");
     var jt = JSON.stringify(novo); 
     localStorage.setItem(novo.nome, jt); 
 

@@ -9,9 +9,10 @@ function alterar(nome,senha){
         console.log(pessoa.nome)
         if(document.getElementById("nome").value === pessoa.nome){
             pessoa.senha = document.getElementById("senha").value;
+            window.alert("Sua senha foi alterada com sucesso! Faça login utilizando a nova senha 😉");
         localStorage.setItem(pessoa.nome, JSON.stringify(pessoa));     
         }else{
-        console.log(`nome ${pessoa.nome} incorreta`);
+            window.alert("Poxa 😕! Parece que seus dados estão incorretos, tente novamente ");
         }
     }
    
