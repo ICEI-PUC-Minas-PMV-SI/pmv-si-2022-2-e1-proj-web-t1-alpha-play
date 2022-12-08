@@ -20,13 +20,13 @@ Comente sobre as ferramentas de testes utilizadas.
 
 | Nº Teste | Página | Cenário de teste |
 |-----------|-----------------------------------------|----|
-|TF-001| Home | Ao abrir o index, é esperado que sejam carregados em formato de listas os cards de jogos eletrônicos cooperativos por categorias, bem como a topbar e a footbar. |
-|TF-002| Home | Ao clicar em "Home" é esperado que o usuário seja direcionado para a página index.|
-|TF-003| Home | Ao clicar em "Quem Somos" é esperado que o usuário seja direcionado para a página "Quem Somos"|
-|TF-004| Home | Ao clicar em "Filtro de Jogos" é esperado que o usuário seja direcionado para a página "Filtro de Jogos".|
-|TF-005| Home | Ao clicar em "Login" é esperado que o usuário seja direcionado para a página "Login".|
-|TF-006| Home | É esperado que haja cinco notícias no carrossel de notícias. Elas devem ser notícias diferentes.|
-|TF-007| Home | É esperado que haja um botão que recolhe e expande onde o usuário terá acesso a uma legenda dos ícones que ele encontrará nos cards dos jogos que facilitará quais plataformas o jogo se encontra.|
-|TF-008| Filtro de Jogos | Ao carregar a página é esperado que haja um botão que recolhe e expande onde o usuário terá acesso a uma legenda dos ícones que ele encontrará nos cards dos jogos que facilitará quais plataformas o jogo se encontra.|
-|TF-009| Filtro de Jogos | Ao carregar a página é esperado que haja um filtro onde o usuario poderá colocar informações como nome do jogo, gênero e plataforma desejada|
-|TF-010| Filtro de Jogos | Ao clicar em "Buscar" o filtro deve retornar os jogos presentes no site que correspondam aos critérios adicionados pelo usuário.|
+|TF-001|  | |
+|TF-002|  | |
+|TF-003|  | |
+|TF-004|  | |
+|TF-005|  | |
+|TF-006|  | |
+|TF-007|  | |
+|TF-008|  | |
+|TF-009|  | |
+|TF-010|  | |
