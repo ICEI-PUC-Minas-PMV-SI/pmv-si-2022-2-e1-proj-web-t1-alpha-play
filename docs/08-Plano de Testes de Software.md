@@ -18,15 +18,20 @@ Comente sobre as ferramentas de testes utilizadas.
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
+##Resultados Esperados
+
 | Nº Teste | Página | Cenário de teste |
 |-----------|-----------------------------------------|----|
-|TF-001|  | |
-|TF-002|  | |
-|TF-003|  | |
-|TF-004|  | |
-|TF-005|  | |
-|TF-006|  | |
-|TF-007|  | |
-|TF-008|  | |
-|TF-009|  | |
-|TF-010|  | |
+|TF-001| Home | Ao acessar o site é esperado que o usuário seja redirecionado a página inicial. |
+|TF-002| Home | Quando o usuário clicar em "Login", será redirecionado a página de Login. |
+|TF-003| Home | Ao acessar a página de Login, o usuário consegue visualizar a opção de "É novo por aqui?" Caso ele clique nessa opção, será redirecionado para a página de cadastro. |
+|TF-004| Home | Caso na página incial o usuário clique em "Quem somos", será redirecionado para a página quem somos, lá conseguirá visualizar informações dos desenvolvedores da página. |
+|TF-005| Login | Caso o usuário coloque seu nome e senha corretos, será mostrando uma mensagem de sucessor de login, após isso ele será redirecionado para a página inicial logada. |
+|TF-006| Home | Após fazer login com seu nome de usuário e senha, o usuário conseguirá ver o nome cadastrado ao lado de "Home" na navbar. |
+|TF-007| Cadastro | Caso o usuário não seja cadastro, ele pode fazer seu cadastro na página de Cadastro, ao prencher as informações e clicar em "Cadastrar" será mostrado um mensagem informando que ele deve fazer login com os dados informados. |
+|TF-008| Home | Quando logado, terá uma botão de "Logout" na página inicial logada ao lado de "Quem Somos". |
+|TF-009| Home | Quando clicar em "Logout", será mostrado uma mensagem e após isso o usuário será redirecionado para a págia inicial deslogada. |
+|TF-010| Home | O Site irá hospedar jogos |
+|TF-011| Home | Na pagina inicial terá um carrossel dos jogos escolhidos como favoritos pelos desenvolvedores. |
+|TF-012| Home | Terá divisões na página inical e logada separando os jogos por matéria. |
+|TF-013| Home | Estará disponível na página inicial seiis jogos de cada matéria, suas dificuldades são de orderm crescente, conforme a opnião e teste dos desenvolvedores do Alpha Play. |
