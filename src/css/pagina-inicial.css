@@ -30,6 +30,8 @@ h1{
 .section{
     min-height: 100vh;
     margin-top: 160px;
+    margin-left: 25px;
+    margin-right: 25px;
 
 }
 
@@ -103,6 +105,12 @@ h1 a{
     font-family: 'Barlow Semi Condensed', sans-serif;
     margin-bottom: 6rem;
     
+}
+
+.carrossel{
+    margin: auto;
+    min-width: 320px;
+    max-width: 100%;
 }
 
 .grid{
