@@ -1,6 +1,6 @@
 var atual; 
 var localStorage = Window.localStorage;
-
+    
 function buscaUsuario(nome, senha){
     var jt = localStorage.getItem(nome); 
     if(jt!=null){ 
@@ -9,6 +9,7 @@ function buscaUsuario(nome, senha){
             window.alert("Boas-vindas alpha players!! Divirta-se aprendendo com a gente 😉");
             localStorage.setItem("usuario_logado",pessoa.nome)
             window.location.href = "http://127.0.0.1:5502/src/pagina-iniciallogada.html";
+            
         }
         else{
            window.alert("Poxa 😕! Parece que seus dados estão incorretos, tente novamente ");
