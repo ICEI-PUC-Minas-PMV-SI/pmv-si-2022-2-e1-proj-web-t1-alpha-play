@@ -35,6 +35,12 @@ h1{
 
 }
 
+.carrossel{
+    margin: auto;
+    min-width: 320px;
+    max-width: 100%;
+}
+
 
 .menu{
    background-repeat: no-repeat;
