@@ -47,7 +47,6 @@ h1{
     width: 100%;
     padding: 1px;
     border-bottom: 1px solid #eee;
-    z-index: 1;
     
 }
 .menu-content{
@@ -107,12 +106,6 @@ h1 a{
     
 }
 
-.carrossel{
-    margin: auto;
-    min-width: 320px;
-    max-width: 100%;
-}
-
 .grid{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -123,6 +116,7 @@ h1 a{
     min-width: 960px;
     max-width: 1400px;
     margin: auto;
+    margin-top: -100px;
     }
 
 footer {
@@ -207,7 +201,6 @@ footer {
     font-size: 35px;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
     font-weight: 600;
-    padding-inline-start: 30%; 
  }
  
  .caixas{
@@ -253,6 +246,7 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
+    padding-inline-start: 30%; 
     
 
   }
@@ -272,6 +266,7 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
+    padding-inline-start: 34%; 
 
     }
     #img4{
@@ -280,10 +275,12 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
+    padding-inline-start: 36%; 
 
     }
     #img5{
     background-image: url(../../src/imgs/backgeografia.jpg);
+    padding-inline-start: 33%; 
 
     background-size: 100%;
     background-repeat: no-repeat;
@@ -296,6 +293,9 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
+    min-width: 100px;
+    max-width: 500px;
+    padding-inline-start: 40%; 
 
     }
     

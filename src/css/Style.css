@@ -80,6 +80,7 @@ nav .menu-btn i{
         text-align: center;
         display: block;
         transition: all 0.3s ease;
+        z-index: 3;
     }
     nav ul.open{
         left: 0;
@@ -149,7 +150,8 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    width: 500px;
+    min-width: 100px;
+    max-width: 500px;
 
   }
   #imagem1:hover{
@@ -164,7 +166,8 @@ footer {
     border-radius: 20px;
     align-items: center;
     justify-content: center;
-    width: 500px;
+    min-width: 100px;
+    max-width: 500px;
     }
     #img2:hover{
         transform: scale(1.2); 
@@ -176,8 +179,8 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    width: 500px;
-
+    min-width: 100px;
+    max-width: 500px;
     }
     #img3:hover{
         transform: scale(1.2); 
@@ -189,8 +192,8 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    width: 500px;
-
+    min-width: 100px;
+    max-width: 500px;
     }
     #img4:hover{
         transform: scale(1.2); 
@@ -202,8 +205,8 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    width: 500px;
-
+    min-width: 100px;
+    max-width: 500px;
     }
     #img5:hover{
         transform: scale(1.2); 
@@ -215,7 +218,8 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    width: 500px;
+    min-width: 100px;
+    max-width: 500px;
 
   }
   #img6:hover{
