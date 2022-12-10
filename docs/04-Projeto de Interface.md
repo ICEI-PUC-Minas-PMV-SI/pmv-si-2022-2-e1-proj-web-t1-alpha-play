@@ -1,11 +1,12 @@
 
 # Projeto de Interface
 
-  O Projeto de Inteface se divide em 7 páginas: Homepage, Login, Cadastro, Recuperação de senha,  Perfil do Usuário, Edição de perfil, Quem somos. As páginas foram desenvolvidas para a facilitação de usuários que tem convívio com interações web, em todas as páginas há uma leitura clara e com caminhos objetivos que direcionam à aplicação requisitada.
+  O Projeto de Inteface se divide em 5 páginas: Homepage, Login, Cadastro, Recuperação de senha, Quem somos. As páginas foram desenvolvidas para a facilitação de usuários que tem convívio com interações web, em todas as páginas há uma leitura clara e com caminhos objetivos que direcionam à aplicação requisitada.
 
 ## User Flow
 
-![Userflow](https://user-images.githubusercontent.com/111810318/198162394-70b4dad8-1314-499a-a312-58e3d29e219c.png)
+![Userflow](https://user-images.githubusercontent.com/111810318/206856337-ed2b3702-b24e-4d36-a9b5-a5ea56069de7.png)
+
 
 
 
