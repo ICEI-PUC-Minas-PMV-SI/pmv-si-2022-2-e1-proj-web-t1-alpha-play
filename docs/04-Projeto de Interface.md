@@ -19,84 +19,116 @@
 
 ## Wireframes
 
+
+
+
+
 ### Homepage deslogada
-A interação com o usuário começa na homepage. Por ela o usuário terá acesso a todas extensões do site (Login/Cadastro, Quem somos, Logout, filtro de jogos); Através da interface da homepage, o usuário poderá ver jogos em destaque, filtros de categoria de jogos por matéria e aplicações categorizadas.  
+A interação com o usuário começa na homepage. Por ela o usuário terá acesso as extensões do site ( Home, Quem somos, Login). Através da interface da homepage, terá acesso a categoria de jogos por matéria  que auxiliarão na aprendizagem.  
 
   
-![Página inicial deslogada](https://user-images.githubusercontent.com/111810318/198112631-7b47c62e-c8ea-4db1-88da-114205bbf2bb.png)
+![Página inicial deslogada](https://user-images.githubusercontent.com/111810318/206856950-fd5ae5ce-db75-4e6b-bd45-c7a507bcc701.png)
+
+
+
+
+
+### Quem Somos deslogada 
+Nessa página o usuário pode ter mais informações sobre o projeto e seus desenvolvedores.
+
+
+![Quem somos](https://user-images.githubusercontent.com/111810318/206857483-16d291e6-59ba-41cd-8671-ec4b3230f053.png)
+
+
+
 
 
 ### Login
 A partir da Homepage, através do "Botão de Login" o usuário será direcionado à página de Login, onde irá encontrar dois campos, que seram preenchidos com a informação ja cadastrada pelo usuário. Logo abaixo dos campos de login, o usuário que não possuir cadastro poderá clicar em "cadastre-se" e escrever suas informações ou em caso de esquecer a senha, em "esqueceu a senha?"
 
 
-![Login (1)](https://user-images.githubusercontent.com/111810318/198110154-5eebc2ed-d1c8-44f7-8c59-c5d97b2793f2.png)
+![Login](https://user-images.githubusercontent.com/111810318/206856974-a338ba93-5da0-4aa6-b04f-ff8b4beeb25c.png)
 
 
 
-### Recuração de Senha
-Caso o usuário já tenha se cadastrado e não lembra seu Nickname, poderá solicitar a recuperação de sua senha através da página de login logo abaixo da box "senha" em "Esqueceu sua senha?", quando clicar será redirecionado a mudança de senha e assim voltará a ter acesso novamente à sua conta.
 
-![Recuperação de senha](https://user-images.githubusercontent.com/111810318/198162409-410283f2-b237-4cb5-9538-825737689f08.png)
+
+### pop-up erro de Login
+Quando o usuário realizar o login, aparecerá uma mensagem de erro caso sua ação não seja bem sucedida. 
+
+![pop-up erro de login (1)](https://user-images.githubusercontent.com/111810318/206857811-040d5b98-8959-4fe7-b97a-a71729b69e92.png)
+
+
+
+
+
+### pop-up sucesso de Login
+Quando o usuário realizar o login, aparecerá uma mensagem de sucesso caso sua ação seja bem sucedida. 
+
+![pop-up sucesso de login (1)](https://user-images.githubusercontent.com/111810318/206857925-8a7a4a8f-d594-48b4-b8ba-028c673b0df9.png)
+
 
 
 
 
 ### Cadastro
-Caso o usuário não possua conta na plataforma, o usuário poderá faze-la a partir da página de login logo abaixo clicando em "Cadastre-se?", onde será redirecionado a página de cadastro; Na página o usuário deve inserir suas informações como: Nickname, Senha e Confirmação de senha; Caso o usuário clique errado em "Cadastre-se", poderá, logo abaixo, clicar em "faça login" e poderá retornar ao seu login. 
+Caso o usuário não possua conta na plataforma, ele poderá faze-la a partir da página de login logo abaixo clicando em "Cadastre-se?", onde será redirecionado para a página de cadastro. Na página, o usuário deve inserir suas informações como: Nickname, Senha e Confirmação de senha; podendo retornar para a página de login clicando em "faça login" ou no "Login" da Nav-bar .
 
 
-![Cadastro](https://user-images.githubusercontent.com/111810318/198110694-418f3eeb-2248-4b54-a5d5-19fdd813ed2f.png)
+![Cadastro](https://user-images.githubusercontent.com/111810318/206857007-f151f655-5af7-47ed-b497-d0db5dfc1b25.png)
 
 
 
-### Feedback Negativo 
-Caso o usuário tenha escrito alguma divergência em seu cadastro aparecerá uma mensagem para tentar novamente ou voltar a seção de login.
 
 
-![pop-up erro de cadastro](https://user-images.githubusercontent.com/111810318/198111286-8f7e9ce3-6ead-48dc-a1f5-49f0124e64c1.png)
+### pop-up sucesso de cadastro 
+Quando o usuário realizar o cadastro, aparecerá uma mensagem de sucesso caso sua ação seja bem sucedida. 
 
 
-### Feedback Positivo
-Caso o usuário tenha concluído seu cadastro, aparecerá uma mensagem de confirmação com uma mensagem de aproveitamento dos jogos;
+
+![pop-up sucesso de cadastro (5)](https://user-images.githubusercontent.com/111810318/206858098-8ec86d50-59ed-4889-9bd7-e6cc4e336649.png)
 
 
-![pop-up sucesso de cadastro](https://user-images.githubusercontent.com/111810318/198111299-704cc626-2ca1-441a-8723-1e105d4cc7d5.png)
+
+
+
+### Recuração de Senha
+Caso o usuário já tenha se cadastrado e não lembra sua senha, poderá solicitar a alteração de sua senha através da página de login logo abaixo da box "senha" em "Esqueceu a senha?". Quando clicar será redirecionado a mudança de senha e assim voltará a ter acesso novamente à sua conta.
+
+
+![Recuperação de senha](https://user-images.githubusercontent.com/111810318/206856998-c4ed5b4c-cd7b-41a0-9cf4-8b35af3f8778.png)
+
+
+
 
 
 ### Homepage logada
-Após concluir o seu cadastro e clicar em ir para a página inicial, será redirecionado para a homepage já logada
+Após concluir seu login, será redirecionado para a homepage já logada. O usuário terá acesso as extensões do site ( Home, Quem somos, Logout) e também , através da sua interface , terá acesso a categoria de jogos por matéria  que auxiliarão na aprendizagem ; agora com seu Nickname visível na nav-bar. 
 
 
-![Página Inicial  logado](https://user-images.githubusercontent.com/111810318/198112310-d0c7798a-d0d4-4c3e-a863-2c611dd90ea1.png)
+![Página inicial logada](https://user-images.githubusercontent.com/111810318/206857025-e17c911b-66b7-47e6-8881-a85601ebe88f.png)
 
 
-### Perfil de Usuário
-Nessa página o usuário terá a possibilidade de alterar seu Nickname, senha e acessar a configuração de perfil.
 
 
-![Perfil do usuário](https://user-images.githubusercontent.com/111810318/198113303-718d3dd1-399f-480e-8483-84b0b478be31.png)
+
+### Quem Somos logada 
+Nessa página o usuário pode ter mais informações sobre o projeto e seus desenvolvedores como anteriormente dito, agora com a alteração de sua nav-bar para a logada .
 
 
-### Edição de Perfil
-Aqui o usuário pode escolher o avatar que irá usar na sua conta e ver seus jogos favoritos. Também consegue fazer logout
+![Quem somos logada](https://user-images.githubusercontent.com/111810318/206857065-1f52c5c1-80dd-42de-a834-3c3010d8bf5d.png)
 
 
-![Edição de perfil](https://user-images.githubusercontent.com/111810318/198113469-467ef567-1f15-4965-a263-84f80a1db7cf.png)
 
 
-### Logout
-Quando o usuário realizar o logout, aparecerá uma mensagem de confirmação 
+
+### pop-up de logout 
+Quando o usuário realizar o logout, aparecerá uma mensagem de confirmação .
 
 
-![pop-up logout](https://user-images.githubusercontent.com/111810318/198113655-32c1437e-ec9a-4739-bd63-22b5c3345ea4.png)
+![pop-up logout](https://user-images.githubusercontent.com/111810318/206857051-849c28e6-392e-4073-bcec-6cc921a76553.png)
 
 
-### Quem Somos
-Nessa página o usuário pode ter mais informações sobre os desenvolvedores.
-
-
-![Quem somos](https://user-images.githubusercontent.com/111810318/198113818-1dc08d76-2221-461c-b9b8-b2ebcd68c63d.png)
 
 
 
