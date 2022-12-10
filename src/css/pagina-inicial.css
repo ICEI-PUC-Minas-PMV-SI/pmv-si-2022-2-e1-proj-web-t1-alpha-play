@@ -35,12 +35,6 @@ h1{
 
 }
 
-.carrossel{
-    margin: auto;
-    min-width: 320px;
-    max-width: 100%;
-}
-
 
 .menu{
    background-repeat: no-repeat;
@@ -111,20 +105,65 @@ h1 a{
     margin-bottom: 6rem;
     
 }
-
-.grid{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    counter-reset: grid-counter;
-    margin-top: 10%;
-    padding-left: 2%;
-    border-radius: 10px;
-    min-width: 960px;
-    max-width: 1400px;
-    margin: auto;
-    margin-top: -100px;
+@media only screen and (max-width: 750px){
+    .juncaodasgrid{
+        width: 100%;
     }
+    
+    .grid{
+        grid-template-columns: repeat(1, 1fr);
+        counter-reset: grid-counter;
+        margin-top: 10%;
+        padding-left: 2%;
+        border-radius: 10px;
+        margin-top: 20px;
+        margin-left: 25px;
+        margin-right: 25px;
 
+        }
+    
+    .grid2{
+        display: flex;
+        list-style-type: none;
+        align-items: center;
+        margin-top: 20px;
+        width: 460px;
+     }
+}
+@media only screen and (min-width: 750px){
+    .juncaodasgrid{
+        width: 100%;
+        display: flex;
+    }
+    
+    .grid{
+        grid-template-columns: repeat(1, 1fr);
+        counter-reset: grid-counter;
+        margin-top: 10%;
+        padding-left: 2%;
+        border-radius: 10px;
+        margin-top: 20px;
+        margin-left: 25px;
+        margin-right: 25px;
+        width: 50%;
+        }
+    
+    .grid2{
+        display: flex;
+        list-style-type: none;
+        align-items: center;
+        width: 40%;
+        margin-top: 50px;
+
+     }
+            
+}
+
+
+
+.materias{
+    display: block;
+}
 footer {
     height: 172px;
     background: linear-gradient(to bottom, #495DB7, #040B29
@@ -201,24 +240,29 @@ footer {
  }
 
  
- .letras nav ul a{
-    list-style: none;
+ .letras{
+list-style: none;
+ }
+.texto a{
+    list-style-type: none;
     color: rgb(250, 250, 250);
     font-size: 35px;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
     font-weight: 600;
- }
+    text-align: center;
+}
+
  
  .caixas{
-    list-style: none;
-    width: 500px;
-    height: 52px;
+    align-items: center;
+    list-style-type: none;
     margin-left:10%;
     margin-bottom: 3%;
     border-radius: 20px;
     border-radius: 10px;
     margin: auto;
-    
+    width: 500px;
+    margin-bottom: 10px;
  }
 
  .ilustracaojogos{
@@ -253,7 +297,8 @@ footer {
     background-repeat: no-repeat;
     border-radius: 20px;
     padding-inline-start: 30%; 
-    
+    margin-bottom: 15px;
+    margin-top: 3px;    
 
   }
     #img2{
@@ -264,6 +309,8 @@ footer {
     border-radius: 20px;
     align-items: center;
     justify-content: center;
+    padding-inline-start: 32%;
+    margin-bottom: 15px;    
 
     }
     #img3{
@@ -273,6 +320,7 @@ footer {
     background-repeat: no-repeat;
     border-radius: 20px;
     padding-inline-start: 34%; 
+    margin-bottom: 15px;    
 
     }
     #img4{
@@ -282,6 +330,7 @@ footer {
     background-repeat: no-repeat;
     border-radius: 20px;
     padding-inline-start: 36%; 
+    margin-bottom: 15px;    
 
     }
     #img5{
@@ -291,6 +340,7 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
+    margin-bottom: 15px;    
 
     }
     #img6{
@@ -299,8 +349,6 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 20px;
-    min-width: 100px;
-    max-width: 500px;
     padding-inline-start: 40%; 
 
     }
