@@ -268,7 +268,7 @@ list-style: none;
  .ilustracaojogos{
     
   border-radius: 5px;
-  background: #495DB7;
+  background: #0C1F75;
   height: 50px;
   min-width: 320px;
   max-width: 100%;
@@ -278,14 +278,14 @@ list-style: none;
  }
 
  .caixadejogo{
-    background-color: #ebdcdc;
+    background-color: #495DB7;
     width: 200px;
     display: inline-block;
     height: 120px;
     align-items: center;
     text-transform: uppercase;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin-bottom: 70px;
+    margin-top: 70px;
     border-radius: 5px;
     margin-left: 10px;
     
