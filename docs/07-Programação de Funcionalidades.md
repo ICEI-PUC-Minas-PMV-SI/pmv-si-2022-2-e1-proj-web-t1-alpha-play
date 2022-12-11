@@ -18,8 +18,15 @@ Ao clicar em `Cadastre-se` disponível na tela de `Login`, o usuário será redi
 
 
 
-Será exibido três campos, Nickname/Senha/Confirmar senha, do tipo `input text` com id `nome`, `input password` com id `senha` e `input password` com id `confsenha` que receberão os valores digitados pelo usuário para fazer o cadastro no site. O `button` do tipo `submit` e de classe `cadastre` é para o usuário concluir o cadastro no site. Logo após concluir o cadastro, poderá retornar à página de login através do comando `href` dentro de uma âncora `p` de classe `cad`  "Faça Login" ou clicando em `Login` disponível na `Navbar` do perfil. Os dados são registrados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/cadastro.js.
+Será exibido três campos, Nickname/Senha/Confirmar senha, do tipo `input text` com id `nome`, `input password` com id `senha` e `input password` com id `confsenha` que receberão os valores digitados pelo usuário para fazer o cadastro no site. O `button` do tipo `submit` e de classe `cadastre` é para o usuário concluir o cadastro no site. Logo após concluir o cadastro, poderá retornar à página de login através do comando `href` dentro de uma âncora `p` de classe `cad`  "Faça Login" ou clicando em `Login` disponível na `Navbar` do perfil. 
 
+![cadastro html](https://user-images.githubusercontent.com/111810318/206909520-4686a7fc-4315-452e-bddf-6ee541a0265e.png)
+
+
+Os dados são registrados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/cadastro.js como mostra a seguir: 
+
+
+![image](https://user-images.githubusercontent.com/111810318/206909357-effc3ef4-93e4-4290-b98c-3f39d45b2a4c.png)
 
 
 
