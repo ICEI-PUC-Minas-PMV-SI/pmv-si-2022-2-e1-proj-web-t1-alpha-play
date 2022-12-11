@@ -45,7 +45,12 @@ Ao clicar em `Login` disponível na `Navbar` do perfil deslogado, o usuário ser
 
 
 
-Será exibido dois campos, Nickname/Senha, do tipo `input text` com id `nome` e `input password` com id `senha` que receberão os valores digitados pelo usuário para fazer o login no site. O `button` do tipo `reset` e de classe `logue` é para o usuário entrar no site logo após concluir o login. Caso ele esqueça a senha,  através do comando `href` dentro de uma âncora `p` de classe `loginrec` será redirecionado para a página de recuperação de senha e caso precise fazer cadastro , através do mesmo comando e âncora , mas de classe `cad`, será redirecionado para a página de cadastro. Os dados são registrados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/login.js, como mostra a seguir: 
+Será exibido dois campos, Nickname/Senha, do tipo `input text` com id `nome` e `input password` com id `senha` que receberão os valores digitados pelo usuário para fazer o login no site. O `button` do tipo `reset` e de classe `logue` é para o usuário entrar no site logo após concluir o login. Caso ele esqueça a senha,  através do comando `href` dentro de uma âncora `p` de classe `loginrec` será redirecionado para a página de recuperação de senha e caso precise fazer cadastro , através do mesmo comando e âncora , mas de classe `cad`, será redirecionado para a página de cadastro. 
+
+![login html](https://user-images.githubusercontent.com/111810318/206909790-fec4e5f5-9761-4750-a111-728c8f33d0e9.png)
+
+
+Os dados são registrados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/login.js, como mostra a seguir: 
 
 
 ![js login](https://user-images.githubusercontent.com/111810318/206909624-ef5bcb10-c1c1-4967-a309-11b0d7c81355.png)
