@@ -71,7 +71,11 @@ Ao clicar em `Esqueceu a senha?` disponível na tela de `Login`, o usuário ser�
 
 
 
-Será exibido dois campos, Nickname/Nova senha, do tipo `input text` com id `nome` e `input password` com id `senha` que receberão os valores digitados pelo usuário para fazer a alteração da senha. O `button` do tipo `submit` com classe `alterar` é para o usuário confirmar a alteração e poder retornar a página de login e ter acesso novamente ao site. Os dados são registrados e recuperados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/recuperaçãodesenha.js, como mostra a seguir: 
+Será exibido dois campos, Nickname/Nova senha, do tipo `input text` com id `nome` e `input password` com id `senha` que receberão os valores digitados pelo usuário para fazer a alteração da senha. O `button` do tipo `submit` com classe `alterar` é para o usuário confirmar a alteração e poder retornar a página de login e ter acesso novamente ao site.
+
+![recuperação senha html](https://user-images.githubusercontent.com/111810318/206910095-1f752861-dfa1-44c2-a4af-588b26f4cf8b.png)
+
+Os dados são registrados e recuperados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/recuperaçãodesenha.js, como mostra a seguir: 
 
 ![js recuperação senha](https://user-images.githubusercontent.com/111810318/206909937-8599a823-2a4c-4efa-bb3f-d1dde041c9ac.png)
 
