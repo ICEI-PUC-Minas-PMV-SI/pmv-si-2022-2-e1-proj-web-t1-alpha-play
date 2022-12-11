@@ -23,7 +23,7 @@ Será exibido três campos, Nickname/Senha/Confirmar senha, do tipo `input text`
 ![cadastro html](https://user-images.githubusercontent.com/111810318/206909520-4686a7fc-4315-452e-bddf-6ee541a0265e.png)
 
 
-Os dados são registrados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/cadastro.js como mostra a seguir: 
+Os dados são registrados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/cadastro.js, como mostra a seguir: 
 
 
 ![image](https://user-images.githubusercontent.com/111810318/206909357-effc3ef4-93e4-4290-b98c-3f39d45b2a4c.png)
@@ -71,4 +71,7 @@ Ao clicar em `Esqueceu a senha?` disponível na tela de `Login`, o usuário ser�
 
 
 
-Será exibido dois campos, Nickname/Nova senha, do tipo `input text` com id `nome` e `input password` com id `senha` que receberão os valores digitados pelo usuário para fazer a alteração da senha. O `button` do tipo `submit` com classe `alterar` é para o usuário confirmar a alteração e poder retornar a página de login e ter acesso novamente ao site. Os dados são registrados e recuperados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/recuperaçãodesenha.js.
+Será exibido dois campos, Nickname/Nova senha, do tipo `input text` com id `nome` e `input password` com id `senha` que receberão os valores digitados pelo usuário para fazer a alteração da senha. O `button` do tipo `submit` com classe `alterar` é para o usuário confirmar a alteração e poder retornar a página de login e ter acesso novamente ao site. Os dados são registrados e recuperados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/recuperaçãodesenha.js, como mostra a seguir: 
+
+![js recuperação senha](https://user-images.githubusercontent.com/111810318/206909937-8599a823-2a4c-4efa-bb3f-d1dde041c9ac.png)
+
