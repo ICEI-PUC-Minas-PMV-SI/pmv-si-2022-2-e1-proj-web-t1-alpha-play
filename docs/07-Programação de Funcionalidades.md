@@ -7,16 +7,13 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 ### Requisitos
 
 - RF-001 - Deverá ter abas de jogos separadas por matéria
-- RF-002 - Permitir a visualização do nome de usuário na página inicial
-- RF-003 - Deverá ter abas de jogos separadas por dificuldade	
+- RF-002 - Deverá ter abas de jogos separadas por dificuldade	
 
-Para atender ao requisito RF-001 foi desenvolvido a página de Inicial com a seguinte estrutura:
+Para atender ao requisito RF-001 foi desenvolvido a página Inicial com a seguinte estrutura:
 
 ![separadas por matéria](https://user-images.githubusercontent.com/111810318/207077947-dfbea876-0901-43bb-b3b8-e4d6143eeeee.png)
 
-Para atender ao requisito RF-002 foi desenvolvido na página de Inicial  a seguinte estrutura:
-
-Para atender ao requisito RF-003 foi desenvolvido na página de Inicial  a seguinte estrutura:
+Para atender ao requisito RF-002 foi desenvolvido na página Inicial  a seguinte estrutura:
 
 ![separada por dificuldade](https://user-images.githubusercontent.com/111810318/207079598-463f58b7-31b7-4dcd-ade6-d99a233f7fe9.png)
 
@@ -25,9 +22,9 @@ Para atender ao requisito RF-003 foi desenvolvido na página de Inicial  a segui
 
 ### Requisitos
 
-- RF-004 - Permitir cadastro do usuário
+- RF-003 - Permitir cadastro do usuário
 
-Para atender ao requisito RF-004 foi desenvolvido a página de Cadastro.
+Para atender ao requisito RF-003 foi desenvolvido a página de Cadastro.
 
 Ao clicar em `Cadastre-se` disponível na tela de `Login`, o usuário será redirecionado para a tela de Cadastro.
 
@@ -52,9 +49,9 @@ Os dados são registrados no localStorage do navegador de acordo com a estrutura
 
 ### Requisitos
 
-- RF-005 - Permitir login do usuário
+- RF-004 - Permitir login do usuário
 
-Para atender ao requisito RF-005 foi desenvolvido a página de Login.
+Para atender ao requisito RF-004 foi desenvolvido a página de Login.
 
 Ao clicar em `Login` disponível na `Navbar` do perfil deslogado, o usuário será redirecionado para a tela de Login.
 
@@ -78,9 +75,9 @@ Os dados são registrados no localStorage do navegador de acordo com a estrutura
 
 ### Requisitos
 
-- RF-006 - Permitir o usuário recuperar a senha
+- RF-005 - Permitir o usuário recuperar a senha
 
-Para atender ao requisito RF-006 foi desenvolvido a página de Recuperação de Senha. 
+Para atender ao requisito RF-005 foi desenvolvido a página de Recuperação de Senha. 
 
 Ao clicar em `Esqueceu a senha?` disponível na tela de `Login`, o usuário será redirecionado para a tela de Recuperação de senha.
 
@@ -96,3 +93,22 @@ Os dados são registrados e recuperados no localStorage do navegador de acordo c
 
 ![js recuperação senha](https://user-images.githubusercontent.com/111810318/206909937-8599a823-2a4c-4efa-bb3f-d1dde041c9ac.png)
 
+
+
+##  Nome de usuário
+
+### Requisitos
+
+- RF-006 - Permitir a visualização do nome de usuário na página logada
+
+Para atender ao requisito RF-006 foi desenvolvido a navbar com a seguinte estrutura: 
+
+![nav bar logada](https://user-images.githubusercontent.com/111810318/207142701-de3ccbad-8de0-48cd-bef6-c7603289c394.png)
+
+Os dados são  recuperados no localStorage do navegador de acordo com a estrutura de dados encontrada em src/js/página-iniciallogada.js, como mostra a seguir: 
+
+![nome js](https://user-images.githubusercontent.com/111810318/207144137-64ae995e-210d-46aa-bd3f-30dcea4db9da.png)
+
+O logout é feito a partir da estrutura encontrada em src/js/página-iniciallogada.js, como mostra a seguir: 
+
+![logout js](https://user-images.githubusercontent.com/111810318/207144578-0a7e2db1-bf8e-4b0b-9a62-9ce492ff6483.png)
