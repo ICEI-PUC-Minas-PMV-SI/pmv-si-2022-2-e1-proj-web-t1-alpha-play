@@ -7,14 +7,16 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 ### Requisitos
 
 - RF-001 - Deverá ter abas de jogos separadas por matéria
-- RF-002 - Deverá ter abas de jogos separadas por dificuldade	
+- RF-002 - Permitir a visualização do nome de usuário na página inicial
+- RF-003 - Deverá ter abas de jogos separadas por dificuldade	
 
 Para atender ao requisito RF-001 foi desenvolvido a página de Inicial com a seguinte estrutura:
 
 ![separadas por matéria](https://user-images.githubusercontent.com/111810318/207077947-dfbea876-0901-43bb-b3b8-e4d6143eeeee.png)
 
-
 Para atender ao requisito RF-002 foi desenvolvido na página de Inicial  a seguinte estrutura:
+
+Para atender ao requisito RF-003 foi desenvolvido na página de Inicial  a seguinte estrutura:
 
 ![separada por dificuldade](https://user-images.githubusercontent.com/111810318/207079598-463f58b7-31b7-4dcd-ade6-d99a233f7fe9.png)
 
