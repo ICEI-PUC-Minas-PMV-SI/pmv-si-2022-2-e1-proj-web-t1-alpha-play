@@ -288,6 +288,7 @@ list-style: none;
     margin-top: 70px;
     border-radius: 5px;
     margin-left: 10px;
+    text-align: center;
     
  }
  #imagem1{
@@ -351,5 +352,8 @@ list-style: none;
     border-radius: 20px;
     padding-inline-start: 40%; 
 
+    }
+    .media-object{
+        width: 100%;
     }
     
