@@ -39,11 +39,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Deverá ter abas de jogos separadas por matéria | ALTA |
-|RF-002| Permitir a visualização do nome de usuário na página inicial | ALTA |
-|RF-003| Deverá ter abas de jogos separadas por dificuldade | MÉDIA |
-|RF-004| Permitir cadastro do usuário | MÉDIA |
-|RF-005| Permitir login do usuário | MÉDIA |
-|RF-006| Permitir o usuário recuperar a senha | MÉDIA |
+|RF-002| Deverá ter abas de jogos separadas por dificuldade| ALTA |
+|RF-003| Permitir cadastro do usuário | MÉDIA |
+|RF-004| Permitir login do usuário| MÉDIA |
+|RF-005| Permitir o usuário recuperar a senha| MÉDIA |
+|RF-006| Permitir a visualização do nome de usuário na página logada | MÉDIA |
 |RF-007| Permitir o usuário favoritar aplicações| MÉDIA |
 |RF-008| Permitir busca de jogos | BAIXO | 
 |RF-009| Permitir formar grupos com amigos| BAIXO |
