@@ -16,7 +16,8 @@ Para atender ao requisito RF-001 foi desenvolvido a página de Inicial com a seg
 
 Para atender ao requisito RF-002 foi desenvolvido na página de Inicial  a seguinte estrutura:
 
-![materias por dificuldade](https://user-images.githubusercontent.com/111810318/207078469-d15142c6-367b-41f9-9b96-1e819d9bb332.png)
+![separada por dificuldade](https://user-images.githubusercontent.com/111810318/207079598-463f58b7-31b7-4dcd-ade6-d99a233f7fe9.png)
+
 
 ## Cadastro
 
