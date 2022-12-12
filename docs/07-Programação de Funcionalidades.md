@@ -2,7 +2,12 @@
 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
+## Página Inicial
 
+### Requisitos
+
+- RF-001 - Deverá ter abas de jogos separadas por matéria
+- RF-002 - Deverá ter abas de jogos separadas por dificuldade	
 
 ## Cadastro
 
