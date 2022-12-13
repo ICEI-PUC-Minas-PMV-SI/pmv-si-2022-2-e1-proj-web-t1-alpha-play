@@ -29,9 +29,9 @@ Resultados Esperados
 |TF-005| Login | Caso o usuário coloque seu nome e senha corretos, será mostrando uma mensagem de sucessor de login, após isso ele será redirecionado para a página inicial logada. |
 |TF-006| Home | Após fazer login com seu nome de usuário e senha, o usuário conseguirá ver o nome cadastrado ao lado de "Home" na navbar. |
 |TF-007| Cadastro | Caso o usuário não seja cadastro, ele pode fazer seu cadastro na página de Cadastro, ao prencher as informações e clicar em "Cadastrar" será mostrado um mensagem informando que ele deve fazer login com os dados informados. |
-|TF-008| Home | Quando logado, terá uma botão de "Logout" na página inicial logada ao lado de "Quem Somos". |
-|TF-009| Home | Quando clicar em "Logout", será mostrado uma mensagem e após isso o usuário será redirecionado para a págia inicial deslogada. |
-|TF-010| Home | O Site irá hospedar jogos. |
-|TF-011| Home | Na pagina inicial terá um carrossel dos jogos escolhidos como favoritos pelos desenvolvedores. |
-|TF-012| Home | Terá divisões na página inical e logada separando os jogos por matéria. |
+|TF-008| Home | Quando logado, terá uma botão de "Logout" na página inicial  ao lado de "Quem Somos". |
+|TF-009| Home | Quando clicar em "Logout", o usuário será redirecionado para a págia inicial deslogada. |
+|TF-010| Home | O Site irá linkar jogos. |
+|TF-011| Home | Quando logado, o nickname do usuário aparecerá na página inicial ao lado de "Home". |
+|TF-012| Home | Terá divisões na página inical separando os jogos por matéria. |
 |TF-013| Home | Estará disponível na página inicial seis jogos de cada matéria, suas dificuldades são de ordem crescente, conforme a opnião e teste dos desenvolvedores do Alpha Play. |
