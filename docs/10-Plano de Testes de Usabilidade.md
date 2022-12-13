@@ -4,5 +4,78 @@
 
 Planejamento de realização de testes com usuários definindo as operações que os usuários devem realizar.
 
-> **Links Úteis**:
-> - [Ferramentas deTestes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+## Plano de Testes
+### Contexto 01
+Descrição: Localizar no site um jogo desejado a critério do usuário a fim de acessá-lo.
+
+Critérios de Avaliação:
+* Taxa de Sucesso – 
+Conseguiu concluir: Sim / Não
+* Taxa de Erro – 
+Analisando o passo-a-passo, enumerar a quantidade de erros cometidos pelo usuário.
+
+
+* Satisfação : 
+Nota de 0 a 5, sendo 5 como totalmente satisfeito e 0 como totalmente insatisfeito.
+
+### Contexto 02
+Descrição: Criar um usuário e fazer login.
+
+Critérios de Avaliação:
+* Taxa de Sucesso – 
+Conseguiu concluir: Sim / Não
+* Taxa de Erro – 
+Analisando o passo-a-passo, enumerar a quantidade de erros cometidos pelo usuário.
+
+
+* Satisfação : 
+Nota de 0 a 5, sendo 5 como totalmente satisfeito e 0 como totalmente insatisfeito.
+
+### Contexto 03
+Descrição: Alterar a senha de usuário quando ele esquecer ela.
+
+Critérios de Avaliação:
+* Taxa de Sucesso – 
+Conseguiu concluir: Sim / Não
+* Taxa de Erro – 
+Analisando o passo-a-passo, enumerar a quantidade de erros cometidos pelo usuário.
+
+
+* Satisfação : 
+Nota de 0 a 5, sendo 5 como totalmente satisfeito e 0 como totalmente insatisfeito.
+
+## Dados Coletados
+
+### Contexto 01 -
+| Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
+|-----------|----------|----------|----------|
+|01| % |  |  |
+|02| % |  |  |
+|03| % |  |  |
+|04| % |  |  |
+
+### Contexto 02 -
+| Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
+|-----------|----------|----------|----------|
+|01| % |  |  |
+|02| % |  |  |
+|03| % |  |  |
+|04| % |  |  |
+
+
+### Contexto 03 -
+| Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
+|-----------|----------|----------|----------|
+|01| % |  |  |
+|02| % |  |  |
+|03| % |  |  |
+|04| % |  |  |
+
+
+## Resultado dos Testes
+
+| Critério | Contexto 01 | Contexto 02 | Contexto 03 | Mínimo / Máximo Aceitável |
+|-----|-----|-----|-----|-----|
+| Taxa de Sucesso | % | % | % | % / % |
+| Taxa de Erro |  |  |  |  /  |
+| Satisfação |  |  |  |  /  |
