@@ -44,38 +44,3 @@ Analisando o passo-a-passo, enumerar a quantidade de erros cometidos pelo usuár
 * Satisfação : 
 Nota de 0 a 5, sendo 5 como totalmente satisfeito e 0 como totalmente insatisfeito.
 
-## Dados Coletados
-
-### Contexto 01 -
-| Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
-|-----------|----------|----------|----------|
-|01| % |  |  |
-|02| % |  |  |
-|03| % |  |  |
-|04| % |  |  |
-
-### Contexto 02 -
-| Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
-|-----------|----------|----------|----------|
-|01| % |  |  |
-|02| % |  |  |
-|03| % |  |  |
-|04| % |  |  |
-
-
-### Contexto 03 -
-| Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
-|-----------|----------|----------|----------|
-|01| % |  |  |
-|02| % |  |  |
-|03| % |  |  |
-|04| % |  |  |
-
-
-## Resultado dos Testes
-
-| Critério | Contexto 01 | Contexto 02 | Contexto 03 | Mínimo / Máximo Aceitável |
-|-----|-----|-----|-----|-----|
-| Taxa de Sucesso | % | % | % | % / % |
-| Taxa de Erro |  |  |  |  /  |
-| Satisfação |  |  |  |  /  |
