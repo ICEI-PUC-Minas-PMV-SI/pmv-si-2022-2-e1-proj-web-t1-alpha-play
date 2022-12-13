@@ -4,5 +4,38 @@
 
 Relatório com evidências dos testes e relatos dos usuários participantes, baseado em um plano de testes pré-definido.
 
-> **Links Úteis**:
-> - [Ferramentas deTestes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+## Dados Coletados
+
+### Contexto 01 -
+| Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
+|-----------|----------|----------|----------|
+|01| % |  |  |
+|02| % |  |  |
+|03| % |  |  |
+|04| % |  |  |
+
+### Contexto 02 -
+| Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
+|-----------|----------|----------|----------|
+|01| % |  |  |
+|02| % |  |  |
+|03| % |  |  |
+|04| % |  |  |
+
+
+### Contexto 03 -
+| Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
+|-----------|----------|----------|----------|
+|01| % |  |  |
+|02| % |  |  |
+|03| % |  |  |
+|04| % |  |  |
+
+
+## Resultado dos Testes
+
+| Critério | Contexto 01 | Contexto 02 | Contexto 03 | Mínimo / Máximo Aceitável |
+|-----|-----|-----|-----|-----|
+| Taxa de Sucesso | % | % | % | % / % |
+| Taxa de Erro |  |  |  |  /  |
+| Satisfação |  |  |  |  /  |
