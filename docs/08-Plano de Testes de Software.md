@@ -34,4 +34,4 @@ Resultados Esperados
 |TF-010| Home | O Site irá hospedar jogos. |
 |TF-011| Home | Na pagina inicial terá um carrossel dos jogos escolhidos como favoritos pelos desenvolvedores. |
 |TF-012| Home | Terá divisões na página inical e logada separando os jogos por matéria. |
-|TF-013| Home | Estará disponível na página inicial seiis jogos de cada matéria, suas dificuldades são de orderm crescente, conforme a opnião e teste dos desenvolvedores do Alpha Play. |
+|TF-013| Home | Estará disponível na página inicial seis jogos de cada matéria, suas dificuldades são de ordem crescente, conforme a opnião e teste dos desenvolvedores do Alpha Play. |
