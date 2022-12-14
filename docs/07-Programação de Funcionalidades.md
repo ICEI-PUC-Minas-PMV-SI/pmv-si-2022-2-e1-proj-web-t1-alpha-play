@@ -12,10 +12,18 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 Para atender ao requisito RF-001 foi desenvolvido a página Inicial com a seguinte estrutura:
 
 ![separadas por matéria](https://user-images.githubusercontent.com/111810318/207077947-dfbea876-0901-43bb-b3b8-e4d6143eeeee.png)
+ 
+ Dentro da `div` de classe `caixas` encontra-se uma `ul` com seis tags `li` de class `texto` presentes no ínicio da página inicial que interligam-se às referidas matériais 
+ 
+![materias html](https://user-images.githubusercontent.com/111810318/207475201-1cc587ee-664f-498e-8ddc-9322a0ae91f1.png)
 
 Para atender ao requisito RF-002 foi desenvolvido na página Inicial  a seguinte estrutura:
 
 ![separada por dificuldade](https://user-images.githubusercontent.com/111810318/207079598-463f58b7-31b7-4dcd-ade6-d99a233f7fe9.png)
+
+Dentro da `div` de classe `materias` encontra-se o título da matéria dentro da tag `h1` de classe `ilustracaojogos` e seis `div` de classe `caixadejogo` com os jogos da matéria em questão e o comando `href` dentro de uma âncora `a` redirecionando para o site que o jogo é encontrado. Logo após, a tag `img` incrementando a imagem do jogo. 
+
+![jogos html](https://user-images.githubusercontent.com/111810318/207475366-2b99421b-cb9e-4aa4-a102-4563148b6eed.png)
 
 
 ## Cadastro
