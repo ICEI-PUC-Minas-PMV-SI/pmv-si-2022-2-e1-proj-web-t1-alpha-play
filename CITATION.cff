@@ -1,0 +1,21 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Alpha Play
+authors:
+  - family-names: Freitas de Assis Campos
+    given-names: Kauan Pablo
+  - family-names: Ramos da silva
+    given-names: Lucas Gabriel 
+  - family-names: Dos Santos
+    given-names: Samara Mariah
+    - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: De Paula
+    given-names: Hugo Bastos
+ keywords:
+  - AlphaPlay
+  - Ferramenta de aprendizado para crianças
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-2-e1-proj-web-t1-alpha-play
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-12-19
