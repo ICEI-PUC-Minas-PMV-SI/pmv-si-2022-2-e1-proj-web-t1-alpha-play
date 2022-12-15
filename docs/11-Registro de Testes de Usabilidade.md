@@ -9,8 +9,8 @@ Relatório com evidências dos testes e relatos dos usuários participantes, bas
 ### Contexto 01 -
 | Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
 |-----------|----------|----------|----------|
-|01| % |  |  |
-|02| % |  |  |
+|01| 100% |0  | 5 |
+|02| 100% |1  | 4 |
 |03| % |  |  |
 |04| % |  |  |
 
