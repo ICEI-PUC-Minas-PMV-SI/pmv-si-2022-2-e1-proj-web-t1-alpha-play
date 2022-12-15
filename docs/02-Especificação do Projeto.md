@@ -44,10 +44,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Permitir login do usuário| MÉDIA |
 |RF-005| Permitir o usuário recuperar a senha| MÉDIA |
 |RF-006| Permitir a visualização do nome de usuário na página logada | MÉDIA |
-|RF-007| Permitir o usuário favoritar aplicações| MÉDIA |
-|RF-008| Permitir busca de jogos | BAIXO | 
-|RF-009| Permitir formar grupos com amigos| BAIXO |
-|RF-010| Deverá ter sistema de classificação por estrelas | BAIXO |
+|RF-007| Permitir busca de jogos | BAIXO | 
+|RF-008| Permitir formar grupos com amigos| BAIXO |
+|RF-009| Deverá ter sistema de classificação por estrelas | BAIXO |
 
 
 
