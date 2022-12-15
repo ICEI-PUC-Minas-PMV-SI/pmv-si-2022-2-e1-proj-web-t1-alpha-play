@@ -6,7 +6,7 @@ Planejamento de realização de testes com usuários definindo as operações qu
 
 ## Plano de Testes
 ### Contexto 01
-Descrição: Localizar no site um jogo desejado a critério do usuário a fim de acessá-lo.
+Descrição: Localizar no site um jogo sobre a matéria desejada a critério do usuário a fim de acessá-lo.
 
 Critérios de Avaliação:
 * Taxa de Sucesso – 
