@@ -11,8 +11,8 @@ Relatório com evidências dos testes e relatos dos usuários participantes, bas
 |-----------|----------|----------|----------|
 |01| 100% |0  | 5 |
 |02| 100% |1  | 4 |
-|03| % |  |  |
-|04| % |  |  |
+|03| 100% |0  | 4 |
+|04| 100% |0  |5  |
 
 ### Contexto 02 -
 | Usuário |Taxa de Sucesso | Taxa de Erro | Satisfação |
