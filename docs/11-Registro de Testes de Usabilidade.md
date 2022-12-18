@@ -20,7 +20,7 @@ Relatório com evidências dos testes e relatos dos usuários participantes, bas
 |01| 100% |1  | 5 |
 |02| 100% |0  | 5 |
 |03| 100% |1 | 4 |
-|04| % |  |  |
+|04| 100% |0  | 5 |
 
 
 ### Contexto 03 -
