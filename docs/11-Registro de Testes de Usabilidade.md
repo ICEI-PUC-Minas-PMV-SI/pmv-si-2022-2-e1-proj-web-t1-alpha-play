@@ -36,6 +36,6 @@ Relatório com evidências dos testes e relatos dos usuários participantes, bas
 
 | Critério | Contexto 01 | Contexto 02 | Contexto 03 | Mínimo / Máximo Aceitável |
 |-----|-----|-----|-----|-----|
-| Taxa de Sucesso | % | % | % | 80% / 100% |
-| Taxa de Erro |  |  |  |  0 / 2 |
-| Satisfação |  |  |  |  2 / 4 |
+| Taxa de Sucesso | % | 100% | % | 80% / 100% |
+| Taxa de Erro |  | 0,5 |  |  0 / 2 |
+| Satisfação |  | 4,75 |  |  2 / 5 |
