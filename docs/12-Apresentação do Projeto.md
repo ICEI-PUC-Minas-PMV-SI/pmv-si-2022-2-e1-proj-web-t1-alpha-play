@@ -1,27 +1,18 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
+![slide 01](https://user-images.githubusercontent.com/111810318/208440253-0e4b65c6-acc8-4703-8694-e424b3d0e784.png)
 
-Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
 
-## Título do Projeto
+![slide 02](https://user-images.githubusercontent.com/111810318/208440261-0a4aa502-e50a-4b50-b878-767d341c76c9.png)
 
-Nome e marca do projeto
 
-## Identidade Visual (Marca, Design)
+![slide 03](https://user-images.githubusercontent.com/111810318/208440272-42e32c6c-fe61-48f2-b44f-493ad84f0c66.png)
 
-O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
 
-> **Links Úteis**:
-> - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
-> - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
-> - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
+![slide 04](https://user-images.githubusercontent.com/111810318/208440297-c4893b82-d893-4b47-8a89-62d3544dff8e.png)
 
-## Conjunto de Slides (Estrutura)
 
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
- 
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
+![slide 05](https://user-images.githubusercontent.com/111810318/208440307-f5c98fea-b11a-485d-91b6-de99c5732b22.png)
+
+
+# Vídeo
