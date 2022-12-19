@@ -21,7 +21,7 @@ Alpha play consiste em um projeto realizado por alunos do curso de Sistemas de I
 
 Analisando a usabilidade da internet de maneira indevida através do consumo de conteúdos fúteis pelas crianças, trazemos a possibilidade do uso desta ferramenta como fonte de aprendizado de forma agradável e segura. 
 
-Acesse: 
+Acesse: https://alphaplayweb.netlify.app/index.html
 
 ## Integrantes
 
