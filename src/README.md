@@ -2,7 +2,7 @@
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores compartilhados, quanto localmente. Não será necessário comandos para  instalar eventuais dependências .
+O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado em servidores de modo local. Não será necessário comandos para  instalar eventuais dependências .
 
 ## Histórico de versões
 
